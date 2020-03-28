@@ -23,11 +23,15 @@
 
 ## Programming languages:
 
-<img src="assets/img/python.png" alt="Python" title="Python" width="150px" height="150px">
+<img src="assets/img/python.png" alt="Python" title="Python" width="150px" height="150px"><img src="assets/img/javascript.jpg" alt="JavaScript" title="JavaScript" width="150px" height="150px"><img src="assets/img/ruby.png" alt="Ruby" title="Ruby" width="150px" height="150px">
 
 * **Python** (3.7.7)
+  * Project's main programming language
+  * Created the machine learning algorithm and back-end API
 * **JavaScript**
+  * Used for developing the front-end website
 * **Ruby**
+  * Required for web scraping COVID-19 status pages for live data
 
 # Online datasets used
 * 
