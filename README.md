@@ -7,7 +7,7 @@
 ---
 
 ## Technologies used in this project:
-<img src="assets/img/ReactJS.png" alt="ReactJS" title="ReactJS" width="200px" height="200px"><img src="assets/img/Django.jpg" alt="Django" title="Django" width="200px" height="200px"><img src="assets/img/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL" width="200px" height="200px"><img src="assets/img/Pandas.png" alt="Pandas" title="Pandas" width="200px" height="200px">
+<img src="assets/img/ReactJS.png" alt="ReactJS" title="ReactJS" width="200px" height="200px"><img src="assets/img/Django.png" alt="Django" title="Django" width="200px" height="200px"><img src="assets/img/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL" width="200px" height="200px"><img src="assets/img/Pandas.png" alt="Pandas" title="Pandas" width="200px" height="200px">
 * **ReactJS**
   * Used ReactJS to develop the front-end website for user interaction
 * **Django**
