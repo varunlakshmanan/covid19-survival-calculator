@@ -1,249 +1,249 @@
-country,state,cases,deaths,mortality_rate
-Afghanistan,,94,4,0.011235955056179775
-Albania,,174,6,0.038314176245210725
-Algeria,,367,25,0.0026041666666666665
-Andorra,,224,3,
-Angola,,4,0,
-Antigua and Barbuda,,7,0,
-Argentina,,502,9,
-Armenia,,290,1,
-Australia,Australian Capital Territory,53,0,
-Australia,New South Wales,1219,7,
-Australia,Northern Territory,12,0,
-Australia,Queensland,493,1,
-Australia,South Australia,235,0,
-Australia,Tasmania,47,0,
-Australia,Victoria,520,3,
-Australia,Western Australia,231,2,
-Austria,,6909,49,
-Azerbaijan,,122,3,
-Bahamas,,9,0,
-Bahrain,,458,4,
-Bangladesh,,44,5,
-Barbados,,18,0,
-Belarus,,86,0,
-Belgium,,6235,220,
-Benin,,6,0,
-Bhutan,,2,0,
-Bolivia,,43,0,
-Bosnia and Herzegovina,,191,3,
-Brazil,,2985,77,
-Brunei,,114,0,
-Bulgaria,,264,3,
-Burkina Faso,,152,7,
-Cabo Verde,,4,1,
-Cambodia,,96,0,
-Cameroon,,75,1,
-Canada,Alberta,486,2,
-Canada,British Columbia,725,14,
-Canada,Grand Princess,13,0,
-Canada,Manitoba,36,0,
-Canada,New Brunswick,33,0,
-Canada,Newfoundland and Labrador,82,0,
-Canada,Nova Scotia,73,0,
-Canada,Ontario,858,13,
-Canada,Prince Edward Island,5,0,
-Canada,Quebec,1632,8,
-Canada,Saskatchewan,95,0,
-Central African Republic,,3,0,
-Chad,,3,0,
-Chile,,1306,4,
-China,Anhui,990,6,
-China,Beijing,566,8,
-China,Chongqing,578,6,
-China,Fujian,328,1,
-China,Gansu,136,2,
-China,Guangdong,1448,8,
-China,Guangxi,254,2,
-China,Guizhou,146,2,
-China,Hainan,168,6,
-China,Hebei,319,6,
-China,Heilongjiang,484,13,
-China,Henan,1275,22,
-China,Hong Kong,453,4,
-China,Hubei,67801,3169,
-China,Hunan,1018,4,
-China,Inner Mongolia,89,1,
-China,Jiangsu,640,0,
-China,Jiangxi,936,1,
-China,Jilin,95,1,
-China,Liaoning,128,2,
-China,Macau,31,0,
-China,Ningxia,75,0,
-China,Qinghai,18,0,
-China,Shaanxi,253,3,
-China,Shandong,771,7,
-China,Shanghai,451,5,
-China,Shanxi,135,0,
-China,Sichuan,547,3,
-China,Tianjin,151,3,
-China,Tibet,1,0,
-China,Xinjiang,76,3,
-China,Yunnan,178,2,
-China,Zhejiang,1243,1,
-Colombia,,491,6,
-Congo (Brazzaville),,4,0,
-Congo (Kinshasa),,51,3,
-Costa Rica,,231,2,
-Cote d'Ivoire,,96,0,
-Croatia,,495,3,
-Diamond Princess,,712,10,
-Cuba,,67,2,
-Cyprus,,146,3,
-Czechia,,1925,9,
-Denmark,Faroe Islands,140,0,
-Denmark,Greenland,6,0,
-Denmark,,1877,41,
-Djibouti,,11,0,
-Dominican Republic,,488,10,
-Ecuador,,1403,34,
-Egypt,,495,24,
-El Salvador,,13,0,
-Equatorial Guinea,,12,0,
-Eritrea,,6,0,
-Estonia,,538,1,
-Eswatini,,6,0,
-Ethiopia,,12,0,
-Fiji,,5,0,
-Finland,,958,5,
-France,French Guiana,28,0,
-France,French Polynesia,30,0,
-France,Guadeloupe,73,1,
-France,Mayotte,36,0,
-France,New Caledonia,14,0,
-France,Reunion,135,0,
-France,Saint Barthelemy,3,0,
-France,St Martin,11,0,
-France,Martinique,66,1,
-France,,29155,1696,
-Gabon,,7,1,
-Gambia,,3,1,
-Georgia,,79,0,
-Germany,,43938,267,
-Ghana,,132,4,
-Greece,,892,26,
-Guatemala,,25,1,
-Guinea,,4,0,
-Guyana,,5,1,
-Haiti,,8,0,
-Holy See,,4,0,
-Honduras,,52,1,
-Hungary,,261,10,
-Iceland,,802,2,
-India,,727,20,
-Indonesia,,893,78,
-Iran,,29406,2234,
-Iraq,,382,36,
-Ireland,,1819,19,
-Israel,,2693,8,
-Italy,,80589,8215,
-Jamaica,,26,1,
-Japan,,1387,47,
-Jordan,,212,0,
-Kazakhstan,,111,1,
-Kenya,,31,1,
-"Korea, South",,9241,131,
-Kuwait,,208,0,
-Kyrgyzstan,,44,0,
-Latvia,,244,0,
-Lebanon,,368,6,
-Liberia,,3,0,
-Liechtenstein,,56,0,
-Lithuania,,299,4,
-Luxembourg,,1453,9,
-Madagascar,,23,0,
-Malaysia,,2031,23,
-Maldives,,13,0,
-Malta,,134,0,
-Mauritania,,3,0,
-Mauritius,,81,2,
-Mexico,,475,6,
-Moldova,,177,1,
-Monaco,,33,0,
-Mongolia,,11,0,
-Montenegro,,69,1,
-Morocco,,275,11,
-Namibia,,8,0,
-Nepal,,3,0,
-Netherlands,Aruba,28,0,
-Netherlands,Curacao,6,1,
-Netherlands,Sint Maarten,3,0,
-Netherlands,,7431,434,
-New Zealand,,283,0,
-Nicaragua,,2,0,
-Niger,,10,1,
-Nigeria,,65,1,
-North Macedonia,,201,3,
-Norway,,3369,14,
-Oman,,109,0,
-Pakistan,,1201,9,
-Panama,,558,8,
-Papua New Guinea,,1,0,
-Paraguay,,41,3,
-Peru,,580,9,
-Philippines,,707,45,
-Poland,,1221,16,
-Portugal,,3544,60,
-Qatar,,549,0,
-Romania,,1029,23,
-Russia,,840,3,
-Rwanda,,50,0,
-Saint Lucia,,3,0,
-Saint Vincent and the Grenadines,,1,0,
-San Marino,,208,21,
-Saudi Arabia,,1012,3,
-Senegal,,105,0,
-Serbia,,384,1,
-Seychelles,,7,0,
-Singapore,,683,2,
-Slovakia,,226,0,
-Slovenia,,562,6,
-Somalia,,2,0,
-South Africa,,927,0,
-Spain,,57786,4365,
-Sri Lanka,,106,0,
-Sudan,,3,1,
-Suriname,,8,0,
-Sweden,,2840,77,
-Switzerland,,11811,191,
-Taiwan*,,252,2,
-Tanzania,,13,0,
-Thailand,,1045,4,
-Togo,,23,0,
-Trinidad and Tobago,,65,1,
-Tunisia,,197,6,
-Turkey,,3629,75,
-Uganda,,14,0,
-Ukraine,,196,5,
-United Arab Emirates,,333,2,
-United Kingdom,Bermuda,15,0,
-United Kingdom,Cayman Islands,8,1,
-United Kingdom,Channel Islands,66,1,
-United Kingdom,Gibraltar,35,0,
-United Kingdom,Isle of Man,25,0,
-United Kingdom,Montserrat,5,0,
-United Kingdom,,11658,578,
-Uruguay,,217,0,
-US,,83836,1209,
-Uzbekistan,,75,0,
-Venezuela,,107,0,
-Vietnam,,153,0,
-Zambia,,16,0,
-Zimbabwe,,3,1,
-Canada,Diamond Princess,0,1,
-Dominica,,11,0,
-Grenada,,7,0,
-Mozambique,,7,0,
-Syria,,5,0,
-Timor-Leste,,1,0,
-Belize,,2,0,
-Canada,Recovered,0,0,
-Laos,,6,0,
-Libya,,1,0,
-West Bank and Gaza,,84,1,
-Guinea-Bissau,,2,0,
-Mali,,4,0,
-Saint Kitts and Nevis,,2,0,
-Canada,Northwest Territories,1,0,
-Canada,Yukon,3,0,
-Kosovo,,71,1,
+index,country,state,cases,deaths,mortality_rate
+64,Afghanistan,,94,4,0.0425531914893617
+129,Albania,,174,6,0.034482758620689655
+194,Algeria,,367,25,0.0681198910081744
+259,Andorra,,224,3,0.013392857142857142
+324,Angola,,4,0,0.0
+389,Antigua and Barbuda,,7,0,0.0
+454,Argentina,,502,9,0.017928286852589643
+519,Armenia,,290,1,0.0034482758620689655
+584,Australia,Australian Capital Territory,53,0,0.0
+649,Australia,New South Wales,1219,7,0.005742411812961444
+714,Australia,Northern Territory,12,0,0.0
+779,Australia,Queensland,493,1,0.002028397565922921
+844,Australia,South Australia,235,0,0.0
+909,Australia,Tasmania,47,0,0.0
+974,Australia,Victoria,520,3,0.0057692307692307696
+1039,Australia,Western Australia,231,2,0.008658008658008658
+1104,Austria,,6909,49,0.0070921985815602835
+1169,Azerbaijan,,122,3,0.02459016393442623
+1234,Bahamas,,9,0,0.0
+1299,Bahrain,,458,4,0.008733624454148471
+1364,Bangladesh,,44,5,0.11363636363636363
+1429,Barbados,,18,0,0.0
+1494,Belarus,,86,0,0.0
+1559,Belgium,,6235,220,0.03528468323977546
+1624,Benin,,6,0,0.0
+1689,Bhutan,,2,0,0.0
+1754,Bolivia,,43,0,0.0
+1819,Bosnia and Herzegovina,,191,3,0.015706806282722512
+1884,Brazil,,2985,77,0.02579564489112228
+1949,Brunei,,114,0,0.0
+2014,Bulgaria,,264,3,0.011363636363636364
+2079,Burkina Faso,,152,7,0.046052631578947366
+2144,Cabo Verde,,4,1,0.25
+2209,Cambodia,,96,0,0.0
+2274,Cameroon,,75,1,0.013333333333333334
+2339,Canada,Alberta,486,2,0.00411522633744856
+2404,Canada,British Columbia,725,14,0.019310344827586208
+2469,Canada,Grand Princess,13,0,0.0
+2534,Canada,Manitoba,36,0,0.0
+2599,Canada,New Brunswick,33,0,0.0
+2664,Canada,Newfoundland and Labrador,82,0,0.0
+2729,Canada,Nova Scotia,73,0,0.0
+2794,Canada,Ontario,858,13,0.015151515151515152
+2859,Canada,Prince Edward Island,5,0,0.0
+2924,Canada,Quebec,1632,8,0.004901960784313725
+2989,Canada,Saskatchewan,95,0,0.0
+3054,Central African Republic,,3,0,0.0
+3119,Chad,,3,0,0.0
+3184,Chile,,1306,4,0.0030627871362940277
+3249,China,Anhui,990,6,0.006060606060606061
+3314,China,Beijing,566,8,0.014134275618374558
+3379,China,Chongqing,578,6,0.010380622837370242
+3444,China,Fujian,328,1,0.003048780487804878
+3509,China,Gansu,136,2,0.014705882352941176
+3574,China,Guangdong,1448,8,0.0055248618784530384
+3639,China,Guangxi,254,2,0.007874015748031496
+3704,China,Guizhou,146,2,0.0136986301369863
+3769,China,Hainan,168,6,0.03571428571428571
+3834,China,Hebei,319,6,0.018808777429467086
+3899,China,Heilongjiang,484,13,0.026859504132231406
+3964,China,Henan,1275,22,0.017254901960784313
+4029,China,Hong Kong,453,4,0.008830022075055188
+4094,China,Hubei,67801,3169,0.046739723602896716
+4159,China,Hunan,1018,4,0.003929273084479371
+4224,China,Inner Mongolia,89,1,0.011235955056179775
+4289,China,Jiangsu,640,0,0.0
+4354,China,Jiangxi,936,1,0.0010683760683760685
+4419,China,Jilin,95,1,0.010526315789473684
+4484,China,Liaoning,128,2,0.015625
+4549,China,Macau,31,0,0.0
+4614,China,Ningxia,75,0,0.0
+4679,China,Qinghai,18,0,0.0
+4744,China,Shaanxi,253,3,0.011857707509881422
+4809,China,Shandong,771,7,0.009079118028534372
+4874,China,Shanghai,451,5,0.011086474501108648
+4939,China,Shanxi,135,0,0.0
+5004,China,Sichuan,547,3,0.005484460694698354
+5069,China,Tianjin,151,3,0.019867549668874173
+5134,China,Tibet,1,0,0.0
+5199,China,Xinjiang,76,3,0.039473684210526314
+5264,China,Yunnan,178,2,0.011235955056179775
+5329,China,Zhejiang,1243,1,0.0008045052292839903
+5394,Colombia,,491,6,0.012219959266802444
+5459,Congo (Brazzaville),,4,0,0.0
+5524,Congo (Kinshasa),,51,3,0.058823529411764705
+5589,Costa Rica,,231,2,0.008658008658008658
+5654,Cote d'Ivoire,,96,0,0.0
+5719,Croatia,,495,3,0.006060606060606061
+5784,Diamond Princess,,712,10,0.014044943820224719
+5849,Cuba,,67,2,0.029850746268656716
+5914,Cyprus,,146,3,0.02054794520547945
+5979,Czechia,,1925,9,0.004675324675324675
+6044,Denmark,Faroe Islands,140,0,0.0
+6109,Denmark,Greenland,6,0,0.0
+6174,Denmark,,1877,41,0.02184336707511987
+6239,Djibouti,,11,0,0.0
+6304,Dominican Republic,,488,10,0.020491803278688523
+6369,Ecuador,,1403,34,0.024233784746970778
+6434,Egypt,,495,24,0.048484848484848485
+6499,El Salvador,,13,0,0.0
+6564,Equatorial Guinea,,12,0,0.0
+6629,Eritrea,,6,0,0.0
+6694,Estonia,,538,1,0.0018587360594795538
+6759,Eswatini,,6,0,0.0
+6824,Ethiopia,,12,0,0.0
+6889,Fiji,,5,0,0.0
+6954,Finland,,958,5,0.005219206680584551
+7019,France,French Guiana,28,0,0.0
+7084,France,French Polynesia,30,0,0.0
+7149,France,Guadeloupe,73,1,0.0136986301369863
+7214,France,Mayotte,36,0,0.0
+7279,France,New Caledonia,14,0,0.0
+7344,France,Reunion,135,0,0.0
+7409,France,Saint Barthelemy,3,0,0.0
+7474,France,St Martin,11,0,0.0
+7539,France,Martinique,66,1,0.015151515151515152
+7604,France,,29155,1696,0.058171840164637285
+7669,Gabon,,7,1,0.14285714285714285
+7734,Gambia,,3,1,0.3333333333333333
+7799,Georgia,,79,0,0.0
+7864,Germany,,43938,267,0.0060767445036187355
+7929,Ghana,,132,4,0.030303030303030304
+7994,Greece,,892,26,0.02914798206278027
+8059,Guatemala,,25,1,0.04
+8124,Guinea,,4,0,0.0
+8189,Guyana,,5,1,0.2
+8254,Haiti,,8,0,0.0
+8319,Holy See,,4,0,0.0
+8384,Honduras,,52,1,0.019230769230769232
+8449,Hungary,,261,10,0.038314176245210725
+8514,Iceland,,802,2,0.0024937655860349127
+8579,India,,727,20,0.027510316368638238
+8644,Indonesia,,893,78,0.08734602463605823
+8709,Iran,,29406,2234,0.07597089029449772
+8774,Iraq,,382,36,0.09424083769633508
+8839,Ireland,,1819,19,0.010445299615173173
+8904,Israel,,2693,8,0.0029706646862235424
+8969,Italy,,80589,8215,0.10193698891908325
+9034,Jamaica,,26,1,0.038461538461538464
+9099,Japan,,1387,47,0.033886085075702954
+9164,Jordan,,212,0,0.0
+9229,Kazakhstan,,111,1,0.009009009009009009
+9294,Kenya,,31,1,0.03225806451612903
+9359,"Korea, South",,9241,131,0.014175954983226923
+9424,Kuwait,,208,0,0.0
+9489,Kyrgyzstan,,44,0,0.0
+9554,Latvia,,244,0,0.0
+9619,Lebanon,,368,6,0.016304347826086956
+9684,Liberia,,3,0,0.0
+9749,Liechtenstein,,56,0,0.0
+9814,Lithuania,,299,4,0.013377926421404682
+9879,Luxembourg,,1453,9,0.006194081211286993
+9944,Madagascar,,23,0,0.0
+10009,Malaysia,,2031,23,0.011324470704086657
+10074,Maldives,,13,0,0.0
+10139,Malta,,134,0,0.0
+10204,Mauritania,,3,0,0.0
+10269,Mauritius,,81,2,0.024691358024691357
+10334,Mexico,,475,6,0.01263157894736842
+10399,Moldova,,177,1,0.005649717514124294
+10464,Monaco,,33,0,0.0
+10529,Mongolia,,11,0,0.0
+10594,Montenegro,,69,1,0.014492753623188406
+10659,Morocco,,275,11,0.04
+10724,Namibia,,8,0,0.0
+10789,Nepal,,3,0,0.0
+10854,Netherlands,Aruba,28,0,0.0
+10919,Netherlands,Curacao,6,1,0.16666666666666666
+10984,Netherlands,Sint Maarten,3,0,0.0
+11049,Netherlands,,7431,434,0.058403983313147625
+11114,New Zealand,,283,0,0.0
+11179,Nicaragua,,2,0,0.0
+11244,Niger,,10,1,0.1
+11309,Nigeria,,65,1,0.015384615384615385
+11374,North Macedonia,,201,3,0.014925373134328358
+11439,Norway,,3369,14,0.004155535767289997
+11504,Oman,,109,0,0.0
+11569,Pakistan,,1201,9,0.00749375520399667
+11634,Panama,,558,8,0.014336917562724014
+11699,Papua New Guinea,,1,0,0.0
+11764,Paraguay,,41,3,0.07317073170731707
+11829,Peru,,580,9,0.015517241379310345
+11894,Philippines,,707,45,0.06364922206506365
+11959,Poland,,1221,16,0.013104013104013105
+12024,Portugal,,3544,60,0.016930022573363433
+12089,Qatar,,549,0,0.0
+12154,Romania,,1029,23,0.022351797862001945
+12219,Russia,,840,3,0.0035714285714285713
+12284,Rwanda,,50,0,0.0
+12349,Saint Lucia,,3,0,0.0
+12414,Saint Vincent and the Grenadines,,1,0,0.0
+12479,San Marino,,208,21,0.10096153846153846
+12544,Saudi Arabia,,1012,3,0.0029644268774703555
+12609,Senegal,,105,0,0.0
+12674,Serbia,,384,1,0.0026041666666666665
+12739,Seychelles,,7,0,0.0
+12804,Singapore,,683,2,0.0029282576866764276
+12869,Slovakia,,226,0,0.0
+12934,Slovenia,,562,6,0.010676156583629894
+12999,Somalia,,2,0,0.0
+13064,South Africa,,927,0,0.0
+13129,Spain,,57786,4365,0.07553732738033433
+13194,Sri Lanka,,106,0,0.0
+13259,Sudan,,3,1,0.3333333333333333
+13324,Suriname,,8,0,0.0
+13389,Sweden,,2840,77,0.027112676056338027
+13454,Switzerland,,11811,191,0.016171365676064687
+13519,Taiwan*,,252,2,0.007936507936507936
+13584,Tanzania,,13,0,0.0
+13649,Thailand,,1045,4,0.003827751196172249
+13714,Togo,,23,0,0.0
+13779,Trinidad and Tobago,,65,1,0.015384615384615385
+13844,Tunisia,,197,6,0.030456852791878174
+13909,Turkey,,3629,75,0.020666850372003307
+13974,Uganda,,14,0,0.0
+14039,Ukraine,,196,5,0.025510204081632654
+14104,United Arab Emirates,,333,2,0.006006006006006006
+14169,United Kingdom,Bermuda,15,0,0.0
+14234,United Kingdom,Cayman Islands,8,1,0.125
+14299,United Kingdom,Channel Islands,66,1,0.015151515151515152
+14364,United Kingdom,Gibraltar,35,0,0.0
+14429,United Kingdom,Isle of Man,25,0,0.0
+14494,United Kingdom,Montserrat,5,0,0.0
+14559,United Kingdom,,11658,578,0.04957968776805627
+14624,Uruguay,,217,0,0.0
+14689,US,,83836,1209,0.014421012452884203
+14754,Uzbekistan,,75,0,0.0
+14819,Venezuela,,107,0,0.0
+14884,Vietnam,,153,0,0.0
+14949,Zambia,,16,0,0.0
+15014,Zimbabwe,,3,1,0.3333333333333333
+15079,Canada,Diamond Princess,0,1,0.0
+15144,Dominica,,11,0,0.0
+15209,Grenada,,7,0,0.0
+15274,Mozambique,,7,0,0.0
+15339,Syria,,5,0,0.0
+15404,Timor-Leste,,1,0,0.0
+15469,Belize,,2,0,0.0
+15534,Canada,Recovered,0,0,0.0
+15599,Laos,,6,0,0.0
+15664,Libya,,1,0,0.0
+15729,West Bank and Gaza,,84,1,0.011904761904761904
+15794,Guinea-Bissau,,2,0,0.0
+15859,Mali,,4,0,0.0
+15924,Saint Kitts and Nevis,,2,0,0.0
+15989,Canada,Northwest Territories,1,0,0.0
+16054,Canada,Yukon,3,0,0.0
+16119,Kosovo,,71,1,0.014084507042253521
