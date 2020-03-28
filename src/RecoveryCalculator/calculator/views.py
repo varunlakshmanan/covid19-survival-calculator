@@ -23,7 +23,7 @@ def get_mortality_rate(request, ip):
         return HttpResponse('HTTP 500 Error')
     ip_data = json.loads(response.text)
     if ip_data['country'] == 'United States':
-        process = Popen(['calculator/scripts/worldometers_webscraper.rb'], stdout=PIPE, stderr=PIPE)
+        process = Popen(['../data/worldometers_webscraper.rb'], stdout=PIPE, stderr=PIPE)
         mortality_rate_data = json.loads(process.communicate()[0].decode().strip())
         if ip_data['regionName'] in mortality_rate_data['states']:
             state_index = mortality_rate_data['states'].index(ip_data['regionName'])

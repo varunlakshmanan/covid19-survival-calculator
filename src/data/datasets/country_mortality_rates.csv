@@ -15074,11 +15074,11 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Deaths,mortality_rate
 2020-03-19,Canada,Diamond Princess,0.0,0.0,0,0,0.0
 2020-03-20,Canada,Diamond Princess,0.0,0.0,0,0,0.0
 2020-03-21,Canada,Diamond Princess,0.0,0.0,0,0,0.0
-2020-03-22,Canada,Diamond Princess,0.0,0.0,0,1,inf
-2020-03-23,Canada,Diamond Princess,0.0,0.0,0,1,inf
-2020-03-24,Canada,Diamond Princess,0.0,0.0,0,1,inf
-2020-03-25,Canada,Diamond Princess,0.0,0.0,0,1,inf
-2020-03-26,Canada,Diamond Princess,0.0,0.0,0,1,inf
+2020-03-22,Canada,Diamond Princess,0.0,0.0,0,1,0.0
+2020-03-23,Canada,Diamond Princess,0.0,0.0,0,1,0.0
+2020-03-24,Canada,Diamond Princess,0.0,0.0,0,1,0.0
+2020-03-25,Canada,Diamond Princess,0.0,0.0,0,1,0.0
+2020-03-26,Canada,Diamond Princess,0.0,0.0,0,1,0.0
 2020-01-22,Dominica,,15.415,-61.371,0,0,0.0
 2020-01-23,Dominica,,15.415,-61.371,0,0,0.0
 2020-01-24,Dominica,,15.415,-61.371,0,0,0.0
