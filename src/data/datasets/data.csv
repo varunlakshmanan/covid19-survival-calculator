@@ -1,4 +1,4 @@
-location,country,age,death,male,female,number of days between symptom onset and hospitalization,mortality_rate,pop_density,High risk travel
+location,country,age,death,male,female,number of days between symptom onset and hospitalization,mortality_rate,pop_density,high_risk_travel
 "shenzhen, guangdong",china,66,0,1,0,8,0.005494505494505495,148.348833270666,1
 shanghai,china,56,0,0,1,0,0.010683760683760684,148.348833270666,1
 zhejiang,china,46,0,1,0,13,0.0008019246190858058,148.348833270666,1
