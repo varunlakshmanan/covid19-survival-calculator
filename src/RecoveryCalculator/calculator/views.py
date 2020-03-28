@@ -3,6 +3,10 @@ from django.http import HttpResponse
 import json
 import requests
 from subprocess import Popen, PIPE
+import os
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+from data import dataset
 
 
 def index(request):
@@ -33,3 +37,10 @@ def get_mortality_rate(request, ip):
             pass
             # Get location from all of US
     return HttpResponse('Fix this!')
+
+
+def update_databases(request, **kwargs):
+    dataset.download_us_states_mortality_rates_dataset()
+    dataset.download_country_mortality_rates_dataset()
+    dataset.merge_mortality_rates_datasets()
+    return HttpResponse('Test')
