@@ -1,6 +1,7 @@
+import os
 import pandas as pd
 
-data_file_path = 'D:/Documents/Leetcode + Foobar + Kaggle/COVIDCalculator/data.csv'
+data_file_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'datasets', 'data.csv')
 data = pd.read_csv(data_file_path)
 
 features = ['age', 'international_traveler', 'domestic_traveler', 'male', 'female', 'number of days between symptom onset and hospitalization', 'mortality_rate', 'pop_density']

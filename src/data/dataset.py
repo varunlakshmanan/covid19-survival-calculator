@@ -68,7 +68,7 @@ def merge_into_original_dataset():
         if df['country'][i] in df2['country'].values:
             series.append(df2.loc[df2['country'] == df['country'][i]].iloc[0]['pop_density'])
         else:
-            series.append(25)
+            series.append(25) # Worldwide population density
     series = pd.Series(series)
     df['pop_density'] = series
     df.to_csv(os.path.join(os.path.dirname(__file__), 'datasets', 'data.csv'), index=False)
