@@ -50,4 +50,4 @@ class Person(models.Model):
     def to_new_csv():
         df = pd.read_csv(os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'data', 'datasets', 'data.csv'))
         df2 = Person.to_data_frame()
-        df.append(df2).sort_values(['country', 'location']).reset_index(drop=True).to_csv('new_data.csv', index=False)
+        df.append(df2).sort_values(['country', 'location']).reset_index(drop=True).to_csv(os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'data', 'datasets', 'new_data.csv'), index=False)
