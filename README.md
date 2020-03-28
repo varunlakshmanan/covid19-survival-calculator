@@ -33,5 +33,7 @@
 * **Ruby**
   * Required for web scraping COVID-19 status pages for live data
 
-# Online datasets used
-* 
+## Online datasets used
+* [DataHub.io Worldwide Time Series](https://datahub.io/core/covid-19)
+* [Worldometers.info US States Cases/Deaths](https://www.worldometers.info/coronavirus/country/us/)
+* [Worldbank.org Worldwide Population Density](https://data.worldbank.org/indicator/en.pop.dnst)
