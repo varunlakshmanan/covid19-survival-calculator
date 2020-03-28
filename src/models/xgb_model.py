@@ -9,7 +9,7 @@ X = data[features]
 y = data.death
 
 from xgboost import XGBRegressor
-model = XGBRegressor(n_estimators=1000, learning_rate=0.05)
+model = XGBRegressor(n_estimators=100, learning_rate=0.05)
 model.fit(X, y)
 
 from sklearn.model_selection import cross_val_predict
