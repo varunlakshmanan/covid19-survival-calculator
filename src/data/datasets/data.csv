@@ -1,521 +1,521 @@
-location,country,age,international_traveler,domestic_traveler,visiting Wuhan,from Wuhan,death,male,female,number of days between symptom onset and hospitalization
-"Shenzhen, Guangdong",China,66,0,0,1,0,0,1,0,8
-Shanghai,China,56,0,0,0,1,0,0,1,0
-Zhejiang,China,46,0,0,0,1,0,1,0,13
-Beijing,China,37,0,0,1,0,0,1,0,6
-Beijing,China,39,0,0,1,0,0,1,0,5
-Beijing,China,56,0,0,1,0,0,1,0,4
-Beijing,China,18,0,0,1,0,0,0,1,1
-Beijing,China,32,0,0,1,0,0,0,1,5
-Macau,China,52,0,0,0,1,0,0,1,8
-Liaoning,China,33,0,0,1,0,0,1,0,6
-Liaoning,China,40,0,0,1,0,0,1,0,5
-Guizhou,China,51,0,0,0,1,0,1,0,0
-Guangxi,China,66,0,0,0,1,0,0,1,0
-Beijing,China,45,0,0,1,0,0,1,0,2
-Guangxi,China,63,0,0,0,1,0,1,0,7
-Guangxi,China,62,0,0,0,1,0,0,1,12
-Guangxi,China,49,0,0,0,1,0,1,0,0
-"Wuhan, Hubei",China,61,0,0,0,1,1,1,0,7
-"Wuhan, Hubei",China,69,0,0,0,1,1,1,0,4
-"Wuhan, Hubei",China,89,0,0,0,1,1,1,0,0
-"Wuhan, Hubei",China,66,0,0,0,1,1,1,0,6
-"Wuhan, Hubei",China,75,0,0,0,1,1,1,0,0
-"Wuhan, Hubei",China,82,0,0,0,1,1,1,0,5
-"Wuhan, Hubei",China,66,0,0,0,1,1,1,0,9
-"Wuhan, Hubei",China,81,0,0,0,1,1,1,0,3
-"Wuhan, Hubei",China,65,0,0,0,1,1,1,0,6
-"Wuhan, Hubei",China,80,0,0,0,1,1,0,1,9
-"Wuhan, Hubei",China,86,0,0,0,1,1,1,0,7
-"Wuhan, Hubei",China,84,0,0,0,1,1,1,0,3
-Hunan,China,40,0,0,1,0,0,1,0,15
-Hunan,China,45,0,0,1,0,0,1,0,5
-Hunan,China,66,0,0,1,0,0,0,1,4
-Hunan,China,59,0,0,1,0,0,1,0,5
-Hunan,China,23,0,0,1,0,0,0,1,5
-Guizhou,China,50,0,0,0,0,0,0,1,8
-Gansu,China,43,0,0,0,0,0,1,0,3
-Shanxi (陕西),China,42,0,0,1,0,0,1,0,1
-Shanxi (陕西),China,32,0,0,1,0,0,0,1,4
-Shanxi (陕西),China,22,0,0,1,0,0,1,0,1
-Hubei ,China,69,0,0,0,0,1,0,1,6
-Hubei ,China,36,0,0,0,0,1,1,0,3
-Hubei ,China,73,0,0,0,0,1,1,0,7
-Hubei ,China,70,0,0,0,0,1,0,1,3
-Hubei ,China,81,0,0,0,0,1,1,0,4
-Liaoning,China,42,0,0,1,0,0,1,0,3
-Tianjin,China,29,0,0,1,0,0,0,1,0
-Shaanxi,China,49,0,0,1,0,0,1,0,0
-Shanghai,China,56,0,0,0,1,0,0,1,5
-"Wuhan, Hubei",China,70,0,0,0,1,1,1,0,4
-"Wuhan, Hubei",China,72,0,0,0,1,1,1,0,7
-"Wuhan, Hubei",China,79,0,0,0,1,1,1,0,6
-"Wuhan, Hubei",China,55,0,0,0,1,1,1,0,10
-"Wuhan, Hubei",China,87,0,0,0,1,1,1,0,7
-"Wuhan, Hubei",China,66,0,0,0,1,1,0,1,10
-"Wuhan, Hubei",China,58,0,0,0,1,1,1,0,15
-"Wuhan, Hubei",China,78,0,0,0,1,1,1,0,10
-"Wuhan, Hubei",China,67,0,0,0,1,1,1,0,5
-"Wuhan, Hubei",China,65,0,0,0,1,1,1,0,4
-"Wuhan, Hubei",China,58,0,0,0,1,1,1,0,9
-"Wuhan, Hubei",China,67,0,0,0,1,1,0,1,7
-"Wuhan, Hubei",China,82,0,0,0,1,1,0,1,7
-"Hechi, Guangxi",China,49,0,0,1,0,0,0,1,1
-"Hechi, Guangxi",China,2,0,0,1,0,0,0,1,1
-Tianjin,China,46,0,0,0,0,0,1,0,2
-Tianjin,China,56,0,0,0,0,0,1,0,4
-Tianjin,China,29,0,0,1,0,0,0,1,0
-Tianjin,China,29,0,0,1,0,0,1,0,1
-Tianjin,China,57,0,0,1,0,0,1,0,0
-Tianjin,China,30,0,0,1,0,0,1,0,0
-Gansu,China,33,0,0,1,0,0,0,1,5
-Gansu,China,20,0,0,0,1,0,0,1,5
-Shaanxi,China,28,0,0,1,0,0,1,0,2
-Shaanxi,China,41,0,0,1,0,0,1,0,9
-Shaanxi,China,40,0,0,1,0,0,1,0,0
-Shaanxi,China,28,0,0,1,0,0,1,0,3
-Shaanxi,China,27,0,0,1,0,0,1,0,0
-Shaanxi,China,15,0,0,1,0,0,1,0,2
-Xinjiang,China,49,0,0,0,0,0,1,0,0
-Ningxia,China,33,0,0,1,0,0,1,0,2
-Tianjin,China,55,0,0,0,0,0,0,1,0
-Tianjin,China,79,0,0,0,0,0,0,1,0
-Tianjin,China,19,0,0,0,0,0,0,1,1
-Macau,China,58,0,0,0,1,0,0,1,0
-Macau,China,39,0,0,0,1,0,0,1,0
-Macau,China,21,0,0,0,1,0,0,1,0
-Shaanxi,China,64,0,0,1,0,0,0,1,10
-Shaanxi,China,44,0,0,1,0,0,1,0,6
-Shaanxi,China,32,0,0,0,0,0,0,1,5
-Tianjin,China,71,0,0,0,1,0,1,0,0
-Beijing,China,35,0,0,0,0,0,1,0,3
-Beijing,China,4,0,0,0,0,0,0,1,3
-Beijing,China,38,0,0,1,0,0,1,0,3
-Beijing,China,69,0,0,1,0,0,0,1,12
-Tianjin,China,50,0,0,1,0,0,1,0,1
-Tianjin,China,78,0,0,0,0,0,1,0,2
-Tianjin,China,49,0,0,0,0,0,1,0,0
-Shaanxi,China,36,0,0,0,1,0,0,1,4
-Shaanxi,China,18,0,0,0,1,0,1,0,3
-Shaanxi,China,50,0,0,1,0,0,1,0,4
-Shaanxi,China,40,0,0,1,0,0,0,1,4
-Shaanxi,China,63,0,0,0,1,0,0,1,14
-Shaanxi,China,47,0,0,0,1,0,0,1,2
-Shaanxi,China,42,0,0,1,0,0,0,1,1
-Shaanxi,China,48,0,0,0,0,0,1,0,2
-Shaanxi,China,39,0,0,1,0,0,1,0,0
-Shaanxi,China,41,0,0,1,0,0,0,1,0
-Shaanxi,China,27,0,0,0,1,0,1,0,2
-Hubei ,China,28,0,0,0,1,0,0,1,3
-Bordeaux,France,48,0,0,1,0,0,1,0,0
-Paris,France,31,0,0,0,1,0,1,0,6
-Paris,France,30,0,0,0,1,0,0,1,2
-Paris,France,80,0,0,0,1,1,1,0,0
-Kanagawa,Japan,35,0,0,1,0,0,1,0,3
-Tokyo,Japan,45,0,0,0,1,0,1,0,1
-Tokyo,Japan,35,0,0,0,1,0,0,1,2
-Aichi Prefecture,Japan,45,0,0,0,1,0,1,0,1
-Aichi Prefecture,Japan,45,0,0,0,1,0,1,0,4
-Nara Prefecture,Japan,65,0,0,0,0,0,1,0,3
-Hokkaido,Japan,45,0,0,1,1,0,0,1,1
-Osaka Prefecture,Japan,45,0,0,0,0,0,0,1,0
-Mie,Japan,55,0,0,1,0,0,1,0,2
-Japan,Japan,35,0,0,1,0,0,0,1,0
-Kyoto,Japan,25,0,0,1,0,0,0,1,5
-Haneda,Japan,25,0,0,1,0,0,0,1,9
-Japan,Japan,45,0,0,1,0,0,1,0,4
-Chiba Prefecture,Japan,35,0,0,0,1,0,0,1,1
-Chiba Prefecture,Japan,55,0,0,1,0,0,0,1,0
-Japan,Japan,55,0,0,0,1,0,1,0,1
-Chiba Prefecture,Japan,45,0,0,0,1,0,1,0,3
-Kyoto,Japan,25,0,0,0,0,0,1,0,3
-Japan,Japan,45,0,0,1,0,0,1,0,2
-Japan,Japan,55,0,0,0,1,0,1,0,0
-Kanagawa,Japan,85,0,0,0,0,1,0,1,6
-Tokyo,Japan,75,0,0,0,0,0,1,0,0
-Wakayama Prefecture,Japan,55,0,0,0,0,0,1,0,8
-Chiba Prefecture,Japan,25,0,0,0,0,0,1,0,8
-Japan,Japan,75,0,0,0,0,1,1,0,5
-Okinawa Prefecture,Japan,65,0,0,0,0,0,0,1,7
-Tokyo,Japan,55,0,0,0,0,0,0,1,3
-Tokyo,Japan,75,0,0,0,0,0,1,0,1
-Aichi Prefecture,Japan,65,0,0,0,0,0,1,0,5
-Hokkaido,Japan,55,0,0,0,0,0,1,0,5
-Kanagawa,Japan,35,0,0,0,0,0,1,0,0
-Wakayama Prefecture,Japan,55,0,0,0,0,0,1,0,2
-Aichi Prefecture,Japan,65,0,0,0,0,0,0,1,1
-Tokyo,Japan,35,0,0,0,0,0,1,0,1
-Aichi Prefecture,Japan,65,0,0,0,0,0,1,0,0
-Nara Prefecture,Japan,65,0,0,0,0,0,1,0,1
-Aichi Prefecture,Japan,65,0,0,0,0,0,1,0,0
-Wakayama Prefecture,Japan,55,0,0,0,0,0,1,0,1
-Wakayama Prefecture,Japan,55,0,0,0,0,0,1,0,0
-Wakayama Prefecture,Japan,45,0,0,0,0,0,0,1,0
-Wakayama Prefecture,Japan,65,0,0,0,0,0,1,0,0
-Wakayama Prefecture,Japan,35,0,0,0,0,0,1,0,1
-Kanagawa,Japan,65,0,0,0,0,0,1,0,2
-Sapporo,Japan,45,0,0,0,0,0,1,0,5
-Hokkaido,Japan,65,0,0,0,0,0,1,0,4
-Okinawa Prefecture,Japan,65,0,0,0,0,0,1,0,7
-Nagoya City,Japan,55,0,0,0,0,0,0,1,0
-Fukuoka Prefecture,Japan,65,0,0,0,0,0,1,0,0
-Chiba Prefecture,Japan,75,0,0,0,0,0,0,1,1
-Okinawa Prefecture,Japan,85,0,0,0,0,0,1,0,11
-Nagoya City,Japan,85,0,0,0,0,0,1,0,0
-Hokkaido,Japan,5,0,0,0,0,0,1,0,2
-Hokkaido,Japan,15,0,0,0,0,0,1,0,1
-Hokkaido,Japan,45,0,0,0,0,0,0,1,2
-Ishikawa,Japan,55,0,0,0,0,0,1,0,0
-Chiba Prefecture,Japan,65,0,0,0,0,0,1,0,3
-Sagamihara,Japan,85,0,0,0,0,0,1,0,1
-Nagoya City,Japan,75,0,0,0,0,0,1,0,2
-Nagoya City,Japan,25,0,0,0,0,0,0,1,1
-Kumamoto City,Japan,25,0,0,0,0,0,0,1,1
-Kumamoto City,Japan,55,0,0,0,0,0,1,0,1
-Kumamoto Prefecture,Japan,65,0,0,0,0,0,1,0,4
-Wakayama Prefecture,Japan,45,0,0,0,0,0,1,0,0
-Chiba Prefecture,Japan,65,0,0,0,0,0,0,1,0
-Japan,Japan,55,0,0,0,0,0,0,1,3
-Hokkaido,Japan,75,0,0,0,0,0,0,1,4
-Hokkaido,Japan,85,0,0,0,0,1,1,0,0
-Hokkaido,Japan,75,0,0,0,0,0,1,0,4
-Hokkaido,Japan,55,0,0,0,0,0,0,1,2
-Hokkaido,Japan,65,0,0,0,0,0,1,0,0
-Hokkaido,Japan,55,0,0,0,0,0,0,1,1
-Hokkaido,Japan,15,0,0,0,0,0,0,1,1
-Hokkaido,Japan,55,0,0,0,0,0,0,1,2
-Nagoya City,Japan,65,0,0,0,0,0,0,1,2
-Nagoya City,Japan,46,0,0,0,0,0,0,1,1
-Nagoya City,Japan,65,0,0,0,0,0,1,0,1
-Nagoya City,Japan,65,0,0,0,0,0,1,0,1
-Japan,Japan,65,0,0,0,0,0,0,1,1
-Sagamihara,Japan,55,0,0,0,0,0,1,0,1
-Hokkaido,Japan,55,0,0,0,0,0,1,0,1
-Nagoya City,Japan,75,0,0,0,0,0,0,1,0
-Nagoya City,Japan,75,0,0,0,0,0,1,0,1
-Chiba Prefecture,Japan,45,0,0,0,0,0,1,0,6
-Sagamihara,Japan,55,0,0,0,0,0,1,0,1
-Ishikawa,Japan,65,0,0,0,0,0,1,0,1
-Sapporo,Japan,75,0,0,0,0,0,0,1,1
-Sapporo,Japan,55,0,0,0,0,0,1,0,3
-Hokkaido,Japan,25,0,0,0,0,0,0,1,5
-Hokkaido,Japan,55,0,0,0,0,0,1,0,3
-Kanagawa,Japan,55,0,0,0,0,0,1,0,3
-Sagamihara,Japan,25,0,0,0,0,0,0,1,0
-Nagano Prefecture,Japan,65,0,0,0,0,0,1,0,1
-Kumamoto City,Japan,55,0,0,0,0,0,1,0,4
-Kumamoto City,Japan,65,0,0,0,0,0,0,1,0
-Sapporo,Japan,65,0,0,0,0,0,0,1,0
-Nagoya City,Japan,75,0,0,0,0,0,0,1,1
-Nagoya City,Japan,75,0,0,0,0,0,0,1,0
-Nagoya City,Japan,45,0,0,0,0,0,0,1,0
-Chiba Prefecture,Japan,55,0,0,0,0,0,1,0,3
-Chiba Prefecture,Japan,65,0,0,0,0,0,1,0,2
-Hokkaido,Japan,25,0,0,0,0,0,1,0,1
-Hokkaido,Japan,25,0,0,0,0,0,0,1,5
-Hokkaido,Japan,75,0,0,0,0,0,0,1,3
-Hokkaido,Japan,75,0,0,0,0,0,0,1,0
-Hokkaido,Japan,45,0,0,0,0,0,1,0,0
-Osaka Prefecture,Japan,45,0,0,0,0,0,0,1,0
-Nagoya City,Japan,55,0,0,0,0,0,1,0,1
-Nagoya City,Japan,65,0,0,0,0,0,1,0,0
-Nagoya City,Japan,75,0,0,0,0,0,1,0,1
-Nagoya City,Japan,75,0,0,0,0,0,1,0,2
-Nagoya City,Japan,75,0,0,0,0,0,0,1,0
-Gifu Prefecture,Japan,55,0,0,0,0,0,1,0,1
-Gifu Prefecture,Japan,55,0,0,0,0,0,0,1,3
-Ishikawa,Japan,55,0,0,0,0,0,1,0,1
-Kanagawa,Japan,55,0,0,0,0,0,1,0,0
-Osaka Prefecture,Japan,45,0,0,0,0,0,1,0,6
-Hokkaido,Japan,55,0,0,0,0,0,1,0,0
-Hokkaido,Japan,55,0,0,0,0,0,1,0,0
-Hokkaido,Japan,35,0,0,0,0,0,1,0,1
-Hokkaido,Japan,75,0,0,0,0,0,1,0,4
-Hokkaido,Japan,65,0,0,0,0,0,1,0,4
-Hokkaido,Japan,45,0,0,0,0,0,1,0,2
-Hokkaido,Japan,45,0,0,0,0,0,1,0,0
-Hokkaido,Japan,5,0,0,0,0,0,1,0,3
-Hokkaido,Japan,35,0,0,0,0,0,1,0,1
-Hokkaido,Japan,5,0,0,0,0,0,1,0,1
-Hokkaido,Japan,85,0,0,0,0,0,1,0,0
-Hokkaido,Japan,35,0,0,0,0,0,1,0,3
-Hokkaido,Japan,85,0,0,0,0,0,1,0,2
-Hokkaido,Japan,65,0,0,0,0,0,1,0,0
-Nagoya City,Japan,65,0,0,0,0,0,0,1,0
-Nagoya City,Japan,65,0,0,0,0,0,1,0,0
-Sagamihara City,Japan,45,0,0,0,0,0,0,1,7
-Hokkaido,Japan,85,0,0,0,0,0,0,1,3
-Hokkaido,Japan,5,0,0,0,0,0,1,0,0
-Hokkaido,Japan,85,0,0,0,0,0,1,0,1
-Hokkaido,Japan,65,0,0,0,0,0,0,1,7
-Hokkaido,Japan,65,0,0,0,0,0,1,0,4
-Hokkaido,Japan,65,0,0,0,0,0,1,0,4
-Hokkaido,Japan,65,0,0,0,0,0,0,1,5
-Hokkaido,Japan,45,0,0,0,0,0,1,0,6
-Hokkaido,Japan,75,0,0,0,0,0,1,0,4
-Sapporo,Japan,65,0,0,0,0,0,1,0,0
-Sapporo,Japan,65,0,0,0,0,0,1,0,3
-Nagoya City,Japan,65,0,0,0,0,0,1,0,0
-Osaka Prefecture,Japan,45,0,0,0,0,0,0,1,0
-Kochi Prefecture,Japan,35,0,0,0,0,0,0,1,1
-Niigata City,Japan,65,0,0,0,0,0,1,0,1
-Hokkaido,Japan,95,0,0,0,0,0,0,1,0
-Hokkaido,Japan,65,0,0,0,0,0,0,1,5
-Hokkaido,Japan,35,0,0,0,0,0,0,1,0
-Nagoya City,Japan,75,0,0,0,0,0,0,1,0
-Kitakyushu City,Japan,65,0,0,0,0,0,1,0,6
-Kanagawa,Japan,75,0,0,0,0,0,0,1,0
-Kanagawa,Japan,55,0,0,0,0,0,0,1,0
-Funabashi City,Japan,25,0,0,0,0,0,1,0,8
-Hokkaido,Japan,25,0,0,0,0,0,0,1,1
-Hokkaido,Japan,45,0,0,0,0,0,1,0,1
-Sagamihara City,Japan,55,0,0,0,0,0,1,0,6
-Sagamihara City,Japan,55,0,0,0,0,0,0,1,6
-Kochi Prefecture,Japan,65,0,0,0,0,0,0,1,4
-Nagoya City,Japan,85,0,0,0,0,0,0,1,1
-Nagoya City,Japan,55,0,0,0,0,0,0,1,1
-Nagoya City,Japan,65,0,0,0,0,0,0,1,2
-Nishimiya City,Japan,45,0,0,0,0,0,1,0,1
-Kochi Prefecture,Japan,35,0,0,0,0,0,0,1,1
-Niigata City,Japan,45,0,0,0,0,0,1,0,0
-Hokkaido,Japan,65,0,0,0,0,0,1,0,5
-Hokkaido,Japan,65,0,0,0,0,0,1,0,2
-Hokkaido,Japan,55,0,0,0,0,0,1,0,1
-Asakihawa City,Japan,45,0,0,0,0,0,0,1,2
-Sapporo,Japan,55,0,0,0,0,0,1,0,4
-Osaka Prefecture,Japan,55,0,0,0,0,0,1,0,3
-Osaka Prefecture,Japan,45,0,0,0,0,0,0,1,1
-Oita City,Japan,35,0,0,0,0,0,0,1,1
-Kobe City,Japan,45,0,0,0,0,0,1,0,0
-Sapporo,Japan,35,0,0,0,0,0,0,1,1
-Sapporo,Japan,65,0,0,0,0,0,0,1,0
-Kyoto,Japan,55,0,0,0,0,0,0,1,3
-Osaka Prefecture,Japan,55,0,0,0,0,0,1,0,4
-Osaka Prefecture,Japan,45,0,0,0,0,0,0,1,5
-Aichi Prefecture,Japan,75,0,0,0,0,0,0,1,4
-Aichi Prefecture,Japan,85,0,0,0,0,0,1,0,3
-Aichi Prefecture,Japan,25,0,0,0,0,0,0,1,0
-Aichi Prefecture,Japan,75,0,0,0,0,0,1,0,1
-Aichi Prefecture,Japan,45,0,0,0,0,0,1,0,1
-Johor,Malaysia,40,0,0,0,1,0,1,0,0
-Malaysia,Malaysia,27,0,0,0,0,0,1,0,0
-Kathmandu,Nepal,32,0,0,0,1,0,1,0,10
-Singapore,Singapore,66,0,0,0,1,0,1,0,1
-Singapore,Singapore,53,0,0,0,1,0,0,1,1
-Singapore,Singapore,36,0,0,0,1,0,1,0,1
-Singapore,Singapore,56,0,0,0,1,0,0,1,2
-Singapore,Singapore,56,0,0,0,1,0,1,0,1
-Singapore,Singapore,35,0,0,0,1,0,1,0,0
-Singapore,Singapore,56,0,0,1,0,0,0,1,3
-Singapore,Singapore,56,0,0,1,0,0,1,0,3
-Singapore,Singapore,56,0,0,1,0,0,1,0,7
-Singapore,Singapore,37,0,0,0,1,0,0,1,3
-Singapore,Singapore,31,0,0,1,0,0,1,0,2
-Singapore,Singapore,47,0,0,1,0,0,0,1,0
-Singapore,Singapore,38,0,0,1,0,0,1,0,6
-Singapore,Singapore,47,0,0,1,0,0,0,1,0
-Singapore,Singapore,28,0,0,0,0,0,0,1,5
-Singapore,Singapore,48,0,0,0,0,0,0,1,9
-Singapore,Singapore,44,0,0,0,0,0,0,1,1
-Singapore,Singapore,45,0,0,0,0,0,1,0,1
-Singapore,Singapore,41,0,0,0,0,0,1,0,1
-Singapore,Singapore,27,0,0,0,0,0,1,0,7
-Singapore,Singapore,53,0,0,0,0,0,1,0,0
-Singapore,Singapore,42,0,0,0,0,0,0,1,3
-Singapore,Singapore,39,0,0,0,0,0,0,1,3
-Singapore,Singapore,40,0,0,0,0,0,0,1,0
-Singapore,Singapore,64,0,0,0,0,0,1,0,1
-Singapore,Singapore,38,0,0,0,0,0,0,1,8
-Singapore,Singapore,53,0,0,0,0,0,1,0,2
-Singapore,Singapore,52,0,0,0,0,0,0,1,1
-Singapore,Singapore,51,0,0,0,0,0,1,0,5
-Singapore,Singapore,36,0,0,0,0,0,1,0,0
-Singapore,Singapore,71,0,0,0,0,0,1,0,0
-Singapore,Singapore,39,0,0,0,0,0,1,0,2
-Singapore,Singapore,54,0,0,0,0,0,1,0,0
-Singapore,Singapore,37,0,0,0,0,0,1,0,2
-Singapore,Singapore,35,0,0,0,0,0,1,0,4
-Singapore,Singapore,39,0,0,0,0,0,1,0,1
-Singapore,Singapore,34,0,0,0,0,0,1,0,1
-Singapore,Singapore,46,0,0,0,0,0,1,0,5
-Singapore,Singapore,62,0,0,0,0,0,1,0,0
-Singapore,Singapore,48,0,0,0,0,0,1,0,1
-Singapore,Singapore,37,0,0,0,0,0,1,0,4
-Singapore,Singapore,54,0,0,0,0,0,1,0,2
-Singapore,Singapore,55,0,0,0,0,0,0,1,1
-Singapore,Singapore,30,0,0,0,0,0,1,0,0
-Singapore,Singapore,26,0,0,0,0,0,1,0,0
-Singapore,Singapore,55,0,0,0,0,0,1,0,2
-Singapore,Singapore,61,0,0,0,0,0,1,0,3
-Singapore,Singapore,51,0,0,0,0,0,0,1,0
-Singapore,Singapore,57,0,0,0,0,0,1,0,0
-Singapore,Singapore,44,0,0,0,0,0,0,1,0
-Singapore,Singapore,54,0,0,0,0,0,0,1,3
-Singapore,Singapore,50,0,0,0,0,0,1,0,2
-Singapore,Singapore,28,0,0,0,0,0,1,0,4
-Singapore,Singapore,56,0,0,0,0,0,0,1,4
-Singapore,Singapore,79,0,0,0,0,0,0,1,15
-Singapore,Singapore,26,0,0,0,0,0,1,0,3
-Singapore,Singapore,27,0,0,0,0,0,0,1,0
-Singapore,Singapore,25,0,0,0,0,0,1,0,9
-Singapore,Singapore,40,0,0,0,0,0,1,0,1
-Singapore,Singapore,43,0,0,0,0,0,1,0,1
-Singapore,Singapore,29,0,0,0,0,0,1,0,0
-Singapore,Singapore,57,0,0,0,0,0,0,1,1
-Singapore,Singapore,35,0,0,0,0,0,0,1,5
-Singapore,Singapore,38,0,0,0,0,0,0,1,0
-Singapore,Singapore,50,0,0,0,0,0,1,0,1
-Singapore,Singapore,57,0,0,0,0,0,0,1,1
-Singapore,Singapore,54,0,0,0,0,0,1,0,4
-Singapore,Singapore,35,0,0,0,0,0,0,1,0
-Singapore,Singapore,36,0,0,0,0,0,1,0,0
-Singapore,Singapore,24,0,0,0,0,0,1,0,2
-Singapore,Singapore,30,0,0,0,0,0,0,1,1
-Singapore,Singapore,41,0,0,0,0,0,1,0,0
-Singapore,Singapore,75,0,0,0,0,0,0,1,0
-Singapore,Singapore,58,0,0,0,0,0,0,1,9
-Singapore,Singapore,47,0,0,0,0,0,1,0,4
-Singapore,Singapore,38,0,0,0,0,0,1,0,1
-Singapore,Singapore,64,0,0,0,0,0,0,1,6
-Singapore,Singapore,44,0,0,0,0,0,1,0,3
-Singapore,Singapore,12,0,0,0,0,0,1,0,1
-Singapore,Singapore,44,0,0,0,0,0,0,1,0
-Singapore,Singapore,24,0,0,0,0,0,1,0,0
-Singapore,Singapore,27,0,0,0,0,0,1,0,4
-Singapore,Singapore,20,0,0,0,0,0,1,0,1
-Singapore,Singapore,61,0,0,0,0,0,1,0,3
-Singapore,Singapore,41,0,0,0,0,0,0,1,2
-Singapore,Singapore,37,0,0,0,0,0,0,1,5
-Singapore,Singapore,49,0,0,0,0,0,1,0,0
-Singapore,Singapore,54,0,0,0,0,0,1,0,0
-Singapore,Singapore,68,0,0,0,0,0,0,1,0
-Singapore,Singapore,34,0,0,0,0,0,0,1,3
-Singapore,Singapore,70,0,0,0,0,0,1,0,2
-Singapore,Singapore,33,0,0,0,0,0,1,0,1
-Singapore,Singapore,43,0,0,0,0,0,1,0,0
-South Korea,South Korea,55,0,0,1,0,0,1,0,9
-South Korea,South Korea,54,0,0,0,1,0,1,0,3
-South Korea,South Korea,55,0,0,1,0,0,1,0,0
-South Korea,South Korea,48,0,0,0,0,0,1,0,0
-South Korea,South Korea,37,0,0,0,0,0,1,0,9
-South Korea,South Korea,61,0,0,0,0,0,0,1,10
-South Korea,South Korea,62,0,0,0,0,0,1,0,3
-Taiwan,Taiwan,55,0,0,1,0,0,0,1,9
-Taiwan,Taiwan,55,0,0,1,0,0,0,1,0
-Taiwan,Taiwan,55,0,0,1,0,0,1,0,0
-Taiwan,Taiwan,50,0,0,1,0,0,0,1,3
-Taiwan,Taiwan,50,0,0,1,0,0,0,1,0
-Taiwan,Taiwan,70,0,0,0,1,0,0,1,0
-Taiwan,Taiwan,70,0,0,0,1,0,0,1,0
-Taiwan,Taiwan,45,0,0,1,0,0,1,0,1
-Taiwan,Taiwan,25,0,0,0,1,0,0,1,3
-Taiwan,Taiwan,55,0,0,0,0,0,1,0,6
-Taiwan,Taiwan,55,0,0,0,0,0,0,1,6
-Taiwan,Taiwan,45,0,0,0,0,0,0,1,2
-Taiwan,Taiwan,65,0,0,0,0,1,1,0,7
-Taiwan,Taiwan,45,0,0,0,0,0,0,1,2
-Taiwan,Taiwan,75,0,0,0,0,0,0,1,0
-Thailand,Thailand,61,0,0,0,1,0,0,1,3
-Thailand,Thailand,74,0,0,0,1,0,0,1,0
-Thailand,Thailand,68,0,0,1,0,0,1,0,0
-Thailand,Thailand,73,0,0,1,0,0,0,1,0
-Thailand,Thailand,33,0,0,1,0,0,0,1,0
-Thailand,Thailand,50,0,0,0,0,0,1,0,3
-Washington,USA,30,1,0,1,0,0,1,0,3
-Illinois,USA,60,1,0,1,0,0,0,1,0
-Illinois,USA,60,0,0,0,0,0,1,0,0
-Illinois,USA,21,1,0,0,0,0,1,0,2
-New Jersey,USA,32,0,1,0,0,0,1,0,1
-Nebraska,USA,36,1,0,0,0,0,0,1,12
-district of columbia,USA,55,0,1,0,0,0,1,0,8
-Missouri,USA,25,1,0,0,0,0,0,1,2
-Minnesota,USA,35,0,0,0,0,0,1,0,4
-Ho Chi Minh City,Vietnam,66,0,0,0,1,0,1,0,0
-NSW,Australia,43,0,0,1,0,0,1,0,0
-Victoria,Australia,55,0,0,1,0,0,1,0,1
-NSW,Australia,21,0,0,1,0,0,0,1,0
-Queensland,Australia,44,0,0,0,1,0,1,0,0
-Victoria,Australia,25,0,0,1,0,0,0,1,3
-Vancouver,Canada,45,0,0,1,0,0,1,0,0
-Toronto,Canada,25,0,0,1,0,0,0,1,0
-Sri Lanka,Sri Lanka,40,0,0,0,1,0,0,1,0
-North Rhine-Westphalia,Germany,47,0,0,0,0,0,1,0,8
-North Rhine-Westphalia,Germany,41,0,0,0,0,0,1,0,6
-Hong Kong,Hong Kong,39,0,0,0,1,0,1,0,1
-Hong Kong,Hong Kong,56,0,0,1,0,0,1,0,1
-Hong Kong,Hong Kong,62,0,0,0,1,0,0,1,3
-Hong Kong,Hong Kong,62,0,0,0,1,0,0,1,0
-Hong Kong,Hong Kong,63,0,0,0,1,0,1,0,0
-Hong Kong,Hong Kong,47,0,0,0,1,0,1,0,1
-Hong Kong,Hong Kong,68,0,0,1,0,0,0,1,4
-Hong Kong,Hong Kong,64,0,0,0,1,0,1,0,0
-Hong Kong,Hong Kong,73,0,0,1,0,0,0,1,0
-Hong Kong,Hong Kong,72,0,0,1,0,0,1,0,0
-Yau Ma Tei,Hong Kong,37,0,0,0,0,0,0,1,2
-Tsing Yi,Hong Kong,75,0,0,0,0,0,1,0,2
-Kowloon,Hong Kong,39,0,0,1,0,1,1,0,0
-Hong Kong,Hong Kong,80,0,0,0,0,0,1,0,11
-Kowloon,Hong Kong,72,0,0,0,0,0,0,1,0
-Kowloon,Hong Kong,64,0,0,0,0,0,0,1,0
-Hong Kong,Hong Kong,60,0,0,0,0,0,1,0,8
-Kowloon,Hong Kong,25,0,0,0,0,0,1,0,1
-Kwun Tong,Hong Kong,56,0,0,0,0,0,0,1,0
-Kwun Tong,Hong Kong,28,0,0,0,0,0,0,1,5
-Kwai Chung,Hong Kong,56,0,0,0,0,0,1,0,2
-Kwai Chung,Hong Kong,55,0,0,0,0,0,0,1,1
-Hong Kong,Hong Kong,63,0,0,0,0,0,0,1,10
-Hong Kong,Hong Kong,65,0,0,0,0,0,0,1,1
-Zhuhai,Hong Kong,58,0,0,0,0,0,1,0,2
-Fo Tan,Hong Kong,42,0,0,0,0,0,1,0,0
-Wan Chai,Hong Kong,24,0,0,0,0,0,1,0,0
-Ngau Chi Wan,Hong Kong,70,0,0,0,0,0,1,0,2
-Hong Kong,Hong Kong,55,0,0,0,0,0,0,1,0
-Hong Kong,Hong Kong,52,0,0,0,0,0,1,0,1
-Hong Kong,Hong Kong,69,0,0,0,0,0,1,0,8
-Hong Kong,Hong Kong,63,0,0,0,0,0,0,1,1
-Hong Kong,Hong Kong,86,0,0,0,0,0,0,1,12
-Hong Kong,Hong Kong,62,0,0,0,0,0,0,1,0
-Hong Kong,Hong Kong,59,0,0,0,0,0,1,0,4
-Hong Kong,Hong Kong,60,0,0,0,0,0,0,1,1
-Hong Kong,Hong Kong,71,0,0,0,0,0,1,0,5
-Hong Kong,Hong Kong,37,0,0,0,0,0,1,0,0
-Hong Kong,Hong Kong,66,0,0,0,0,0,1,0,1
-Hong Kong,Hong Kong,37,0,0,0,0,0,0,1,1
-Hong Kong,Hong Kong,75,0,0,0,0,0,1,0,0
-Hong Kong,Hong Kong,51,0,0,0,0,0,1,0,7
-Hong Kong,Hong Kong,43,0,0,0,0,0,1,0,2
-Hong Kong,Hong Kong,67,0,0,0,0,0,0,1,0
-Hong Kong,Hong Kong,37,0,0,0,0,0,1,0,1
-Hong Kong,Hong Kong,70,0,0,0,0,1,1,0,10
-Hong Kong,Hong Kong,69,0,0,0,0,0,1,0,0
-Hong Kong,Hong Kong,45,0,0,0,0,0,1,0,1
-Hong Kong,Hong Kong,46,0,0,0,0,0,0,1,2
-Hong Kong,Hong Kong,68,0,0,0,0,0,1,0,6
-Hong Kong,Hong Kong,70,0,0,0,0,0,0,1,6
-Hong Kong,Hong Kong,75,0,0,0,0,0,1,0,6
-Hong Kong,Hong Kong,38,0,0,0,0,0,0,1,0
-Hong Kong,Hong Kong,58,0,0,0,0,0,1,0,2
-Hong Kong,Hong Kong,48,0,0,0,0,0,1,0,1
-Hong Kong,Hong Kong,96,0,0,0,0,0,0,1,9
-Hong Kong,Hong Kong,68,0,0,0,0,0,1,0,2
-Hong Kong,Hong Kong,62,0,0,0,0,0,1,0,12
-Hong Kong,Hong Kong,80,0,0,0,0,0,0,1,14
-Hong Kong,Hong Kong,76,0,0,0,0,0,0,1,9
-Hong Kong,Hong Kong,35,0,0,0,0,0,1,0,2
-Hong Kong,Hong Kong,57,0,0,0,0,0,0,1,4
-Hong Kong,Hong Kong,68,0,0,0,0,0,0,1,4
-Hong Kong,Hong Kong,60,0,0,0,0,0,0,1,12
-Hong Kong,Hong Kong,49,0,0,0,0,0,0,1,4
-Hong Kong,Hong Kong,21,0,0,0,0,0,0,1,13
-Hong Kong,Hong Kong,16,0,0,0,0,0,1,0,8
-Hong Kong,Hong Kong,80,0,0,0,0,0,1,0,0
-Hong Kong,Hong Kong,29,0,0,0,0,0,0,1,4
-Hong Kong,Hong Kong,26,0,0,0,0,0,1,0,1
-Hong Kong,Hong Kong,70,0,0,0,0,0,0,1,0
-Hong Kong,Hong Kong,89,0,0,0,0,0,0,1,1
-Hong Kong,Hong Kong,71,0,0,0,0,0,0,1,2
-Hong Kong,Hong Kong,79,0,0,0,0,0,1,0,1
-Lombardy,Italy,38,0,0,0,0,0,1,0,2
-Manila,Phillipines,44,0,0,0,1,1,1,0,0
-Lapland,Finland,32,0,0,0,1,0,0,1,2
-Castile and Leon,Spain,18,0,0,0,0,0,1,0,1
+location,country,age,international_traveler,domestic_traveler,visiting Wuhan,from Wuhan,death,male,female,number of days between symptom onset and hospitalization,mortality_rate,pop_density
+"Shenzhen, Guangdong",China,66,0,0,1,0,0,1,0,8,0.005494505494505495,148.348833270666
+Shanghai,China,56,0,0,0,1,0,0,1,0,0.010683760683760684,148.348833270666
+Zhejiang,China,46,0,0,0,1,0,1,0,13,0.0008019246190858058,148.348833270666
+Beijing,China,37,0,0,1,0,0,1,0,6,0.0140597539543058,148.348833270666
+Beijing,China,39,0,0,1,0,0,1,0,5,0.0140597539543058,148.348833270666
+Beijing,China,56,0,0,1,0,0,1,0,4,0.0140597539543058,148.348833270666
+Beijing,China,18,0,0,1,0,0,0,1,1,0.0140597539543058,148.348833270666
+Beijing,China,32,0,0,1,0,0,0,1,5,0.0140597539543058,148.348833270666
+Macau,China,52,0,0,0,1,0,0,1,8,0.0,148.348833270666
+Liaoning,China,33,0,0,1,0,0,1,0,6,0.015625,148.348833270666
+Liaoning,China,40,0,0,1,0,0,1,0,5,0.015625,148.348833270666
+Guizhou,China,51,0,0,0,1,0,1,0,0,0.0136986301369863,148.348833270666
+Guangxi,China,66,0,0,0,1,0,0,1,0,0.007874015748031496,148.348833270666
+Beijing,China,45,0,0,1,0,0,1,0,2,0.0140597539543058,148.348833270666
+Guangxi,China,63,0,0,0,1,0,1,0,7,0.007874015748031496,148.348833270666
+Guangxi,China,62,0,0,0,1,0,0,1,12,0.007874015748031496,148.348833270666
+Guangxi,China,49,0,0,0,1,0,1,0,0,0.007874015748031496,148.348833270666
+"Wuhan, Hubei",China,61,0,0,0,1,1,1,0,7,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,69,0,0,0,1,1,1,0,4,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,89,0,0,0,1,1,1,0,0,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,66,0,0,0,1,1,1,0,6,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,75,0,0,0,1,1,1,0,0,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,82,0,0,0,1,1,1,0,5,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,66,0,0,0,1,1,1,0,9,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,81,0,0,0,1,1,1,0,3,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,65,0,0,0,1,1,1,0,6,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,80,0,0,0,1,1,0,1,9,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,86,0,0,0,1,1,1,0,7,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,84,0,0,0,1,1,1,0,3,0.0468134688278934,148.348833270666
+Hunan,China,40,0,0,1,0,0,1,0,15,0.003929273084479371,148.348833270666
+Hunan,China,45,0,0,1,0,0,1,0,5,0.003929273084479371,148.348833270666
+Hunan,China,66,0,0,1,0,0,0,1,4,0.003929273084479371,148.348833270666
+Hunan,China,59,0,0,1,0,0,1,0,5,0.003929273084479371,148.348833270666
+Hunan,China,23,0,0,1,0,0,0,1,5,0.003929273084479371,148.348833270666
+Guizhou,China,50,0,0,0,0,0,0,1,8,0.0136986301369863,148.348833270666
+Gansu,China,43,0,0,0,0,0,1,0,3,0.014705882352941175,148.348833270666
+Shanxi (陕西),China,42,0,0,1,0,0,1,0,1,0.0,148.348833270666
+Shanxi (陕西),China,32,0,0,1,0,0,0,1,4,0.0,148.348833270666
+Shanxi (陕西),China,22,0,0,1,0,0,1,0,1,0.0,148.348833270666
+Hubei ,China,69,0,0,0,0,1,0,1,6,0.0468134688278934,148.348833270666
+Hubei ,China,36,0,0,0,0,1,1,0,3,0.0468134688278934,148.348833270666
+Hubei ,China,73,0,0,0,0,1,1,0,7,0.0468134688278934,148.348833270666
+Hubei ,China,70,0,0,0,0,1,0,1,3,0.0468134688278934,148.348833270666
+Hubei ,China,81,0,0,0,0,1,1,0,4,0.0468134688278934,148.348833270666
+Liaoning,China,42,0,0,1,0,0,1,0,3,0.015625,148.348833270666
+Tianjin,China,29,0,0,1,0,0,0,1,0,0.01935483870967742,148.348833270666
+Shaanxi,China,49,0,0,1,0,0,1,0,0,0.011857707509881422,148.348833270666
+Shanghai,China,56,0,0,0,1,0,0,1,5,0.010683760683760684,148.348833270666
+"Wuhan, Hubei",China,70,0,0,0,1,1,1,0,4,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,72,0,0,0,1,1,1,0,7,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,79,0,0,0,1,1,1,0,6,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,55,0,0,0,1,1,1,0,10,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,87,0,0,0,1,1,1,0,7,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,66,0,0,0,1,1,0,1,10,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,58,0,0,0,1,1,1,0,15,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,78,0,0,0,1,1,1,0,10,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,67,0,0,0,1,1,1,0,5,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,65,0,0,0,1,1,1,0,4,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,58,0,0,0,1,1,1,0,9,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,67,0,0,0,1,1,0,1,7,0.0468134688278934,148.348833270666
+"Wuhan, Hubei",China,82,0,0,0,1,1,0,1,7,0.0468134688278934,148.348833270666
+"Hechi, Guangxi",China,49,0,0,1,0,0,0,1,1,0.007874015748031496,148.348833270666
+"Hechi, Guangxi",China,2,0,0,1,0,0,0,1,1,0.007874015748031496,148.348833270666
+Tianjin,China,46,0,0,0,0,0,1,0,2,0.01935483870967742,148.348833270666
+Tianjin,China,56,0,0,0,0,0,1,0,4,0.01935483870967742,148.348833270666
+Tianjin,China,29,0,0,1,0,0,0,1,0,0.01935483870967742,148.348833270666
+Tianjin,China,29,0,0,1,0,0,1,0,1,0.01935483870967742,148.348833270666
+Tianjin,China,57,0,0,1,0,0,1,0,0,0.01935483870967742,148.348833270666
+Tianjin,China,30,0,0,1,0,0,1,0,0,0.01935483870967742,148.348833270666
+Gansu,China,33,0,0,1,0,0,0,1,5,0.014705882352941175,148.348833270666
+Gansu,China,20,0,0,0,1,0,0,1,5,0.014705882352941175,148.348833270666
+Shaanxi,China,28,0,0,1,0,0,1,0,2,0.011857707509881422,148.348833270666
+Shaanxi,China,41,0,0,1,0,0,1,0,9,0.011857707509881422,148.348833270666
+Shaanxi,China,40,0,0,1,0,0,1,0,0,0.011857707509881422,148.348833270666
+Shaanxi,China,28,0,0,1,0,0,1,0,3,0.011857707509881422,148.348833270666
+Shaanxi,China,27,0,0,1,0,0,1,0,0,0.011857707509881422,148.348833270666
+Shaanxi,China,15,0,0,1,0,0,1,0,2,0.011857707509881422,148.348833270666
+Xinjiang,China,49,0,0,0,0,0,1,0,0,0.03947368421052632,148.348833270666
+Ningxia,China,33,0,0,1,0,0,1,0,2,0.0,148.348833270666
+Tianjin,China,55,0,0,0,0,0,0,1,0,0.01935483870967742,148.348833270666
+Tianjin,China,79,0,0,0,0,0,0,1,0,0.01935483870967742,148.348833270666
+Tianjin,China,19,0,0,0,0,0,0,1,1,0.01935483870967742,148.348833270666
+Macau,China,58,0,0,0,1,0,0,1,0,0.0,148.348833270666
+Macau,China,39,0,0,0,1,0,0,1,0,0.0,148.348833270666
+Macau,China,21,0,0,0,1,0,0,1,0,0.0,148.348833270666
+Shaanxi,China,64,0,0,1,0,0,0,1,10,0.011857707509881422,148.348833270666
+Shaanxi,China,44,0,0,1,0,0,1,0,6,0.011857707509881422,148.348833270666
+Shaanxi,China,32,0,0,0,0,0,0,1,5,0.011857707509881422,148.348833270666
+Tianjin,China,71,0,0,0,1,0,1,0,0,0.01935483870967742,148.348833270666
+Beijing,China,35,0,0,0,0,0,1,0,3,0.0140597539543058,148.348833270666
+Beijing,China,4,0,0,0,0,0,0,1,3,0.0140597539543058,148.348833270666
+Beijing,China,38,0,0,1,0,0,1,0,3,0.0140597539543058,148.348833270666
+Beijing,China,69,0,0,1,0,0,0,1,12,0.0140597539543058,148.348833270666
+Tianjin,China,50,0,0,1,0,0,1,0,1,0.01935483870967742,148.348833270666
+Tianjin,China,78,0,0,0,0,0,1,0,2,0.01935483870967742,148.348833270666
+Tianjin,China,49,0,0,0,0,0,1,0,0,0.01935483870967742,148.348833270666
+Shaanxi,China,36,0,0,0,1,0,0,1,4,0.011857707509881422,148.348833270666
+Shaanxi,China,18,0,0,0,1,0,1,0,3,0.011857707509881422,148.348833270666
+Shaanxi,China,50,0,0,1,0,0,1,0,4,0.011857707509881422,148.348833270666
+Shaanxi,China,40,0,0,1,0,0,0,1,4,0.011857707509881422,148.348833270666
+Shaanxi,China,63,0,0,0,1,0,0,1,14,0.011857707509881422,148.348833270666
+Shaanxi,China,47,0,0,0,1,0,0,1,2,0.011857707509881422,148.348833270666
+Shaanxi,China,42,0,0,1,0,0,0,1,1,0.011857707509881422,148.348833270666
+Shaanxi,China,48,0,0,0,0,0,1,0,2,0.011857707509881422,148.348833270666
+Shaanxi,China,39,0,0,1,0,0,1,0,0,0.011857707509881422,148.348833270666
+Shaanxi,China,41,0,0,1,0,0,0,1,0,0.011857707509881422,148.348833270666
+Shaanxi,China,27,0,0,0,1,0,1,0,2,0.011857707509881422,148.348833270666
+Hubei ,China,28,0,0,0,1,0,0,1,3,0.0468134688278934,148.348833270666
+Bordeaux,France,48,0,0,1,0,0,1,0,0,0.0,122.33839573919902
+Paris,France,31,0,0,0,1,0,1,0,6,0.0,122.33839573919902
+Paris,France,30,0,0,0,1,0,0,1,2,0.0,122.33839573919902
+Paris,France,80,0,0,0,1,1,1,0,0,0.0,122.33839573919902
+Kanagawa,Japan,35,0,0,1,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Tokyo,Japan,45,0,0,0,1,0,1,0,1,0.03337874659400545,347.07345841562415
+Tokyo,Japan,35,0,0,0,1,0,0,1,2,0.03337874659400545,347.07345841562415
+Aichi Prefecture,Japan,45,0,0,0,1,0,1,0,1,0.03337874659400545,347.07345841562415
+Aichi Prefecture,Japan,45,0,0,0,1,0,1,0,4,0.03337874659400545,347.07345841562415
+Nara Prefecture,Japan,65,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,45,0,0,1,1,0,0,1,1,0.03337874659400545,347.07345841562415
+Osaka Prefecture,Japan,45,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Mie,Japan,55,0,0,1,0,0,1,0,2,0.03337874659400545,347.07345841562415
+Japan,Japan,35,0,0,1,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Kyoto,Japan,25,0,0,1,0,0,0,1,5,0.03337874659400545,347.07345841562415
+Haneda,Japan,25,0,0,1,0,0,0,1,9,0.03337874659400545,347.07345841562415
+Japan,Japan,45,0,0,1,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Chiba Prefecture,Japan,35,0,0,0,1,0,0,1,1,0.03337874659400545,347.07345841562415
+Chiba Prefecture,Japan,55,0,0,1,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Japan,Japan,55,0,0,0,1,0,1,0,1,0.03337874659400545,347.07345841562415
+Chiba Prefecture,Japan,45,0,0,0,1,0,1,0,3,0.03337874659400545,347.07345841562415
+Kyoto,Japan,25,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Japan,Japan,45,0,0,1,0,0,1,0,2,0.03337874659400545,347.07345841562415
+Japan,Japan,55,0,0,0,1,0,1,0,0,0.03337874659400545,347.07345841562415
+Kanagawa,Japan,85,0,0,0,0,1,0,1,6,0.03337874659400545,347.07345841562415
+Tokyo,Japan,75,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Wakayama Prefecture,Japan,55,0,0,0,0,0,1,0,8,0.03337874659400545,347.07345841562415
+Chiba Prefecture,Japan,25,0,0,0,0,0,1,0,8,0.03337874659400545,347.07345841562415
+Japan,Japan,75,0,0,0,0,1,1,0,5,0.03337874659400545,347.07345841562415
+Okinawa Prefecture,Japan,65,0,0,0,0,0,0,1,7,0.03337874659400545,347.07345841562415
+Tokyo,Japan,55,0,0,0,0,0,0,1,3,0.03337874659400545,347.07345841562415
+Tokyo,Japan,75,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Aichi Prefecture,Japan,65,0,0,0,0,0,1,0,5,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,55,0,0,0,0,0,1,0,5,0.03337874659400545,347.07345841562415
+Kanagawa,Japan,35,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Wakayama Prefecture,Japan,55,0,0,0,0,0,1,0,2,0.03337874659400545,347.07345841562415
+Aichi Prefecture,Japan,65,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Tokyo,Japan,35,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Aichi Prefecture,Japan,65,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Nara Prefecture,Japan,65,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Aichi Prefecture,Japan,65,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Wakayama Prefecture,Japan,55,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Wakayama Prefecture,Japan,55,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Wakayama Prefecture,Japan,45,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Wakayama Prefecture,Japan,65,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Wakayama Prefecture,Japan,35,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Kanagawa,Japan,65,0,0,0,0,0,1,0,2,0.03337874659400545,347.07345841562415
+Sapporo,Japan,45,0,0,0,0,0,1,0,5,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,65,0,0,0,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Okinawa Prefecture,Japan,65,0,0,0,0,0,1,0,7,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,55,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Fukuoka Prefecture,Japan,65,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Chiba Prefecture,Japan,75,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Okinawa Prefecture,Japan,85,0,0,0,0,0,1,0,11,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,85,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,5,0,0,0,0,0,1,0,2,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,15,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,45,0,0,0,0,0,0,1,2,0.03337874659400545,347.07345841562415
+Ishikawa,Japan,55,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Chiba Prefecture,Japan,65,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Sagamihara,Japan,85,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,75,0,0,0,0,0,1,0,2,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,25,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Kumamoto City,Japan,25,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Kumamoto City,Japan,55,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Kumamoto Prefecture,Japan,65,0,0,0,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Wakayama Prefecture,Japan,45,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Chiba Prefecture,Japan,65,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Japan,Japan,55,0,0,0,0,0,0,1,3,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,75,0,0,0,0,0,0,1,4,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,85,0,0,0,0,1,1,0,0,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,75,0,0,0,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,55,0,0,0,0,0,0,1,2,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,65,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,55,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,15,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,55,0,0,0,0,0,0,1,2,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,65,0,0,0,0,0,0,1,2,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,46,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,65,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,65,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Japan,Japan,65,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Sagamihara,Japan,55,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,55,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,75,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,75,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Chiba Prefecture,Japan,45,0,0,0,0,0,1,0,6,0.03337874659400545,347.07345841562415
+Sagamihara,Japan,55,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Ishikawa,Japan,65,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Sapporo,Japan,75,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Sapporo,Japan,55,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,25,0,0,0,0,0,0,1,5,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,55,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Kanagawa,Japan,55,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Sagamihara,Japan,25,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Nagano Prefecture,Japan,65,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Kumamoto City,Japan,55,0,0,0,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Kumamoto City,Japan,65,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Sapporo,Japan,65,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,75,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,75,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,45,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Chiba Prefecture,Japan,55,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Chiba Prefecture,Japan,65,0,0,0,0,0,1,0,2,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,25,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,25,0,0,0,0,0,0,1,5,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,75,0,0,0,0,0,0,1,3,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,75,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,45,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Osaka Prefecture,Japan,45,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,55,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,65,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,75,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,75,0,0,0,0,0,1,0,2,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,75,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Gifu Prefecture,Japan,55,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Gifu Prefecture,Japan,55,0,0,0,0,0,0,1,3,0.03337874659400545,347.07345841562415
+Ishikawa,Japan,55,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Kanagawa,Japan,55,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Osaka Prefecture,Japan,45,0,0,0,0,0,1,0,6,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,55,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,55,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,35,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,75,0,0,0,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,65,0,0,0,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,45,0,0,0,0,0,1,0,2,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,45,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,5,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,35,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,5,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,85,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,35,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,85,0,0,0,0,0,1,0,2,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,65,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,65,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,65,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Sagamihara City,Japan,45,0,0,0,0,0,0,1,7,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,85,0,0,0,0,0,0,1,3,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,5,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,85,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,65,0,0,0,0,0,0,1,7,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,65,0,0,0,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,65,0,0,0,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,65,0,0,0,0,0,0,1,5,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,45,0,0,0,0,0,1,0,6,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,75,0,0,0,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Sapporo,Japan,65,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Sapporo,Japan,65,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,65,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Osaka Prefecture,Japan,45,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Kochi Prefecture,Japan,35,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Niigata City,Japan,65,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,95,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,65,0,0,0,0,0,0,1,5,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,35,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,75,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Kitakyushu City,Japan,65,0,0,0,0,0,1,0,6,0.03337874659400545,347.07345841562415
+Kanagawa,Japan,75,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Kanagawa,Japan,55,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Funabashi City,Japan,25,0,0,0,0,0,1,0,8,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,25,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,45,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Sagamihara City,Japan,55,0,0,0,0,0,1,0,6,0.03337874659400545,347.07345841562415
+Sagamihara City,Japan,55,0,0,0,0,0,0,1,6,0.03337874659400545,347.07345841562415
+Kochi Prefecture,Japan,65,0,0,0,0,0,0,1,4,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,85,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,55,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Nagoya City,Japan,65,0,0,0,0,0,0,1,2,0.03337874659400545,347.07345841562415
+Nishimiya City,Japan,45,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Kochi Prefecture,Japan,35,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Niigata City,Japan,45,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,65,0,0,0,0,0,1,0,5,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,65,0,0,0,0,0,1,0,2,0.03337874659400545,347.07345841562415
+Hokkaido,Japan,55,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Asakihawa City,Japan,45,0,0,0,0,0,0,1,2,0.03337874659400545,347.07345841562415
+Sapporo,Japan,55,0,0,0,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Osaka Prefecture,Japan,55,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Osaka Prefecture,Japan,45,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Oita City,Japan,35,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Kobe City,Japan,45,0,0,0,0,0,1,0,0,0.03337874659400545,347.07345841562415
+Sapporo,Japan,35,0,0,0,0,0,0,1,1,0.03337874659400545,347.07345841562415
+Sapporo,Japan,65,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Kyoto,Japan,55,0,0,0,0,0,0,1,3,0.03337874659400545,347.07345841562415
+Osaka Prefecture,Japan,55,0,0,0,0,0,1,0,4,0.03337874659400545,347.07345841562415
+Osaka Prefecture,Japan,45,0,0,0,0,0,0,1,5,0.03337874659400545,347.07345841562415
+Aichi Prefecture,Japan,75,0,0,0,0,0,0,1,4,0.03337874659400545,347.07345841562415
+Aichi Prefecture,Japan,85,0,0,0,0,0,1,0,3,0.03337874659400545,347.07345841562415
+Aichi Prefecture,Japan,25,0,0,0,0,0,0,1,0,0.03337874659400545,347.07345841562415
+Aichi Prefecture,Japan,75,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Aichi Prefecture,Japan,45,0,0,0,0,0,1,0,1,0.03337874659400545,347.07345841562415
+Johor,Malaysia,40,0,0,0,1,0,1,0,0,0.012031466913465988,95.9628214883579
+Malaysia,Malaysia,27,0,0,0,0,0,1,0,0,0.012031466913465988,95.9628214883579
+Kathmandu,Nepal,32,0,0,0,1,0,1,0,10,0.0,195.939107080572
+Singapore,Singapore,66,0,0,0,1,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,53,0,0,0,1,0,0,1,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,36,0,0,0,1,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,56,0,0,0,1,0,0,1,2,0.00273224043715847,7952.9984184018
+Singapore,Singapore,56,0,0,0,1,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,35,0,0,0,1,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,56,0,0,1,0,0,0,1,3,0.00273224043715847,7952.9984184018
+Singapore,Singapore,56,0,0,1,0,0,1,0,3,0.00273224043715847,7952.9984184018
+Singapore,Singapore,56,0,0,1,0,0,1,0,7,0.00273224043715847,7952.9984184018
+Singapore,Singapore,37,0,0,0,1,0,0,1,3,0.00273224043715847,7952.9984184018
+Singapore,Singapore,31,0,0,1,0,0,1,0,2,0.00273224043715847,7952.9984184018
+Singapore,Singapore,47,0,0,1,0,0,0,1,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,38,0,0,1,0,0,1,0,6,0.00273224043715847,7952.9984184018
+Singapore,Singapore,47,0,0,1,0,0,0,1,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,28,0,0,0,0,0,0,1,5,0.00273224043715847,7952.9984184018
+Singapore,Singapore,48,0,0,0,0,0,0,1,9,0.00273224043715847,7952.9984184018
+Singapore,Singapore,44,0,0,0,0,0,0,1,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,45,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,41,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,27,0,0,0,0,0,1,0,7,0.00273224043715847,7952.9984184018
+Singapore,Singapore,53,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,42,0,0,0,0,0,0,1,3,0.00273224043715847,7952.9984184018
+Singapore,Singapore,39,0,0,0,0,0,0,1,3,0.00273224043715847,7952.9984184018
+Singapore,Singapore,40,0,0,0,0,0,0,1,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,64,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,38,0,0,0,0,0,0,1,8,0.00273224043715847,7952.9984184018
+Singapore,Singapore,53,0,0,0,0,0,1,0,2,0.00273224043715847,7952.9984184018
+Singapore,Singapore,52,0,0,0,0,0,0,1,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,51,0,0,0,0,0,1,0,5,0.00273224043715847,7952.9984184018
+Singapore,Singapore,36,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,71,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,39,0,0,0,0,0,1,0,2,0.00273224043715847,7952.9984184018
+Singapore,Singapore,54,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,37,0,0,0,0,0,1,0,2,0.00273224043715847,7952.9984184018
+Singapore,Singapore,35,0,0,0,0,0,1,0,4,0.00273224043715847,7952.9984184018
+Singapore,Singapore,39,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,34,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,46,0,0,0,0,0,1,0,5,0.00273224043715847,7952.9984184018
+Singapore,Singapore,62,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,48,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,37,0,0,0,0,0,1,0,4,0.00273224043715847,7952.9984184018
+Singapore,Singapore,54,0,0,0,0,0,1,0,2,0.00273224043715847,7952.9984184018
+Singapore,Singapore,55,0,0,0,0,0,0,1,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,30,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,26,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,55,0,0,0,0,0,1,0,2,0.00273224043715847,7952.9984184018
+Singapore,Singapore,61,0,0,0,0,0,1,0,3,0.00273224043715847,7952.9984184018
+Singapore,Singapore,51,0,0,0,0,0,0,1,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,57,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,44,0,0,0,0,0,0,1,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,54,0,0,0,0,0,0,1,3,0.00273224043715847,7952.9984184018
+Singapore,Singapore,50,0,0,0,0,0,1,0,2,0.00273224043715847,7952.9984184018
+Singapore,Singapore,28,0,0,0,0,0,1,0,4,0.00273224043715847,7952.9984184018
+Singapore,Singapore,56,0,0,0,0,0,0,1,4,0.00273224043715847,7952.9984184018
+Singapore,Singapore,79,0,0,0,0,0,0,1,15,0.00273224043715847,7952.9984184018
+Singapore,Singapore,26,0,0,0,0,0,1,0,3,0.00273224043715847,7952.9984184018
+Singapore,Singapore,27,0,0,0,0,0,0,1,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,25,0,0,0,0,0,1,0,9,0.00273224043715847,7952.9984184018
+Singapore,Singapore,40,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,43,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,29,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,57,0,0,0,0,0,0,1,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,35,0,0,0,0,0,0,1,5,0.00273224043715847,7952.9984184018
+Singapore,Singapore,38,0,0,0,0,0,0,1,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,50,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,57,0,0,0,0,0,0,1,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,54,0,0,0,0,0,1,0,4,0.00273224043715847,7952.9984184018
+Singapore,Singapore,35,0,0,0,0,0,0,1,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,36,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,24,0,0,0,0,0,1,0,2,0.00273224043715847,7952.9984184018
+Singapore,Singapore,30,0,0,0,0,0,0,1,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,41,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,75,0,0,0,0,0,0,1,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,58,0,0,0,0,0,0,1,9,0.00273224043715847,7952.9984184018
+Singapore,Singapore,47,0,0,0,0,0,1,0,4,0.00273224043715847,7952.9984184018
+Singapore,Singapore,38,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,64,0,0,0,0,0,0,1,6,0.00273224043715847,7952.9984184018
+Singapore,Singapore,44,0,0,0,0,0,1,0,3,0.00273224043715847,7952.9984184018
+Singapore,Singapore,12,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,44,0,0,0,0,0,0,1,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,24,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,27,0,0,0,0,0,1,0,4,0.00273224043715847,7952.9984184018
+Singapore,Singapore,20,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,61,0,0,0,0,0,1,0,3,0.00273224043715847,7952.9984184018
+Singapore,Singapore,41,0,0,0,0,0,0,1,2,0.00273224043715847,7952.9984184018
+Singapore,Singapore,37,0,0,0,0,0,0,1,5,0.00273224043715847,7952.9984184018
+Singapore,Singapore,49,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,54,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,68,0,0,0,0,0,0,1,0,0.00273224043715847,7952.9984184018
+Singapore,Singapore,34,0,0,0,0,0,0,1,3,0.00273224043715847,7952.9984184018
+Singapore,Singapore,70,0,0,0,0,0,1,0,2,0.00273224043715847,7952.9984184018
+Singapore,Singapore,33,0,0,0,0,0,1,0,1,0.00273224043715847,7952.9984184018
+Singapore,Singapore,43,0,0,0,0,0,1,0,0,0.00273224043715847,7952.9984184018
+South Korea,South Korea,55,0,0,1,0,0,1,0,9,0.034,25.0
+South Korea,South Korea,54,0,0,0,1,0,1,0,3,0.034,25.0
+South Korea,South Korea,55,0,0,1,0,0,1,0,0,0.034,25.0
+South Korea,South Korea,48,0,0,0,0,0,1,0,0,0.034,25.0
+South Korea,South Korea,37,0,0,0,0,0,1,0,9,0.034,25.0
+South Korea,South Korea,61,0,0,0,0,0,0,1,10,0.034,25.0
+South Korea,South Korea,62,0,0,0,0,0,1,0,3,0.034,25.0
+Taiwan,Taiwan,55,0,0,1,0,0,0,1,9,0.034,25.0
+Taiwan,Taiwan,55,0,0,1,0,0,0,1,0,0.034,25.0
+Taiwan,Taiwan,55,0,0,1,0,0,1,0,0,0.034,25.0
+Taiwan,Taiwan,50,0,0,1,0,0,0,1,3,0.034,25.0
+Taiwan,Taiwan,50,0,0,1,0,0,0,1,0,0.034,25.0
+Taiwan,Taiwan,70,0,0,0,1,0,0,1,0,0.034,25.0
+Taiwan,Taiwan,70,0,0,0,1,0,0,1,0,0.034,25.0
+Taiwan,Taiwan,45,0,0,1,0,0,1,0,1,0.034,25.0
+Taiwan,Taiwan,25,0,0,0,1,0,0,1,3,0.034,25.0
+Taiwan,Taiwan,55,0,0,0,0,0,1,0,6,0.034,25.0
+Taiwan,Taiwan,55,0,0,0,0,0,0,1,6,0.034,25.0
+Taiwan,Taiwan,45,0,0,0,0,0,0,1,2,0.034,25.0
+Taiwan,Taiwan,65,0,0,0,0,1,1,0,7,0.034,25.0
+Taiwan,Taiwan,45,0,0,0,0,0,0,1,2,0.034,25.0
+Taiwan,Taiwan,75,0,0,0,0,0,0,1,0,0.034,25.0
+Thailand,Thailand,61,0,0,0,1,0,0,1,3,0.0044014084507042256,135.897206835131
+Thailand,Thailand,74,0,0,0,1,0,0,1,0,0.0044014084507042256,135.897206835131
+Thailand,Thailand,68,0,0,1,0,0,1,0,0,0.0044014084507042256,135.897206835131
+Thailand,Thailand,73,0,0,1,0,0,0,1,0,0.0044014084507042256,135.897206835131
+Thailand,Thailand,33,0,0,1,0,0,0,1,0,0.0044014084507042256,135.897206835131
+Thailand,Thailand,50,0,0,0,0,0,1,0,3,0.0044014084507042256,135.897206835131
+Washington,US,30,1,0,1,0,0,1,0,3,0.0472972972972973,35.766088580168
+Illinois,US,60,1,0,1,0,0,0,1,0,0.011235955056179777,35.766088580168
+Illinois,US,60,0,0,0,0,0,1,0,0,0.011235955056179777,35.766088580168
+Illinois,US,21,1,0,0,0,0,1,0,2,0.011235955056179777,35.766088580168
+New Jersey,US,32,0,1,0,0,0,1,0,1,0.012237960339943343,35.766088580168
+Nebraska,US,36,1,0,0,0,0,0,1,12,0.0,35.766088580168
+district of columbia,US,55,0,1,0,0,0,1,0,8,0.004784688995215311,35.766088580168
+Missouri,US,25,1,0,0,0,0,0,1,2,0.013432835820895522,35.766088580168
+Minnesota,US,35,0,0,0,0,0,1,0,4,0.010050251256281407,35.766088580168
+Ho Chi Minh City,Vietnam,66,0,0,0,1,0,1,0,0,0.0,308.12524591221296
+NSW,Australia,43,0,0,1,0,0,1,0,0,0.0,3.24912948744283
+Victoria,Australia,55,0,0,1,0,0,1,0,1,0.005226480836236934,3.24912948744283
+NSW,Australia,21,0,0,1,0,0,0,1,0,0.0,3.24912948744283
+Queensland,Australia,44,0,0,0,1,0,1,0,0,0.0018018018018018016,3.24912948744283
+Victoria,Australia,25,0,0,1,0,0,0,1,3,0.005226480836236934,3.24912948744283
+Vancouver,Canada,45,0,0,1,0,0,1,0,0,0.003690036900369004,4.07530821431988
+Toronto,Canada,25,0,0,1,0,0,0,1,0,0.003690036900369004,4.07530821431988
+Sri Lanka,Sri Lanka,40,0,0,0,1,0,0,1,0,0.0,345.558922022006
+North Rhine-Westphalia,Germany,47,0,0,0,0,0,1,0,8,0.006722887303178628,237.3709697733
+North Rhine-Westphalia,Germany,41,0,0,0,0,0,1,0,6,0.006722887303178628,237.3709697733
+Hong Kong,Hong Kong,39,0,0,0,1,0,1,0,1,0.034,25.0
+Hong Kong,Hong Kong,56,0,0,1,0,0,1,0,1,0.034,25.0
+Hong Kong,Hong Kong,62,0,0,0,1,0,0,1,3,0.034,25.0
+Hong Kong,Hong Kong,62,0,0,0,1,0,0,1,0,0.034,25.0
+Hong Kong,Hong Kong,63,0,0,0,1,0,1,0,0,0.034,25.0
+Hong Kong,Hong Kong,47,0,0,0,1,0,1,0,1,0.034,25.0
+Hong Kong,Hong Kong,68,0,0,1,0,0,0,1,4,0.034,25.0
+Hong Kong,Hong Kong,64,0,0,0,1,0,1,0,0,0.034,25.0
+Hong Kong,Hong Kong,73,0,0,1,0,0,0,1,0,0.034,25.0
+Hong Kong,Hong Kong,72,0,0,1,0,0,1,0,0,0.034,25.0
+Yau Ma Tei,Hong Kong,37,0,0,0,0,0,0,1,2,0.034,25.0
+Tsing Yi,Hong Kong,75,0,0,0,0,0,1,0,2,0.034,25.0
+Kowloon,Hong Kong,39,0,0,1,0,1,1,0,0,0.034,25.0
+Hong Kong,Hong Kong,80,0,0,0,0,0,1,0,11,0.034,25.0
+Kowloon,Hong Kong,72,0,0,0,0,0,0,1,0,0.034,25.0
+Kowloon,Hong Kong,64,0,0,0,0,0,0,1,0,0.034,25.0
+Hong Kong,Hong Kong,60,0,0,0,0,0,1,0,8,0.034,25.0
+Kowloon,Hong Kong,25,0,0,0,0,0,1,0,1,0.034,25.0
+Kwun Tong,Hong Kong,56,0,0,0,0,0,0,1,0,0.034,25.0
+Kwun Tong,Hong Kong,28,0,0,0,0,0,0,1,5,0.034,25.0
+Kwai Chung,Hong Kong,56,0,0,0,0,0,1,0,2,0.034,25.0
+Kwai Chung,Hong Kong,55,0,0,0,0,0,0,1,1,0.034,25.0
+Hong Kong,Hong Kong,63,0,0,0,0,0,0,1,10,0.034,25.0
+Hong Kong,Hong Kong,65,0,0,0,0,0,0,1,1,0.034,25.0
+Zhuhai,Hong Kong,58,0,0,0,0,0,1,0,2,0.034,25.0
+Fo Tan,Hong Kong,42,0,0,0,0,0,1,0,0,0.034,25.0
+Wan Chai,Hong Kong,24,0,0,0,0,0,1,0,0,0.034,25.0
+Ngau Chi Wan,Hong Kong,70,0,0,0,0,0,1,0,2,0.034,25.0
+Hong Kong,Hong Kong,55,0,0,0,0,0,0,1,0,0.034,25.0
+Hong Kong,Hong Kong,52,0,0,0,0,0,1,0,1,0.034,25.0
+Hong Kong,Hong Kong,69,0,0,0,0,0,1,0,8,0.034,25.0
+Hong Kong,Hong Kong,63,0,0,0,0,0,0,1,1,0.034,25.0
+Hong Kong,Hong Kong,86,0,0,0,0,0,0,1,12,0.034,25.0
+Hong Kong,Hong Kong,62,0,0,0,0,0,0,1,0,0.034,25.0
+Hong Kong,Hong Kong,59,0,0,0,0,0,1,0,4,0.034,25.0
+Hong Kong,Hong Kong,60,0,0,0,0,0,0,1,1,0.034,25.0
+Hong Kong,Hong Kong,71,0,0,0,0,0,1,0,5,0.034,25.0
+Hong Kong,Hong Kong,37,0,0,0,0,0,1,0,0,0.034,25.0
+Hong Kong,Hong Kong,66,0,0,0,0,0,1,0,1,0.034,25.0
+Hong Kong,Hong Kong,37,0,0,0,0,0,0,1,1,0.034,25.0
+Hong Kong,Hong Kong,75,0,0,0,0,0,1,0,0,0.034,25.0
+Hong Kong,Hong Kong,51,0,0,0,0,0,1,0,7,0.034,25.0
+Hong Kong,Hong Kong,43,0,0,0,0,0,1,0,2,0.034,25.0
+Hong Kong,Hong Kong,67,0,0,0,0,0,0,1,0,0.034,25.0
+Hong Kong,Hong Kong,37,0,0,0,0,0,1,0,1,0.034,25.0
+Hong Kong,Hong Kong,70,0,0,0,0,1,1,0,10,0.034,25.0
+Hong Kong,Hong Kong,69,0,0,0,0,0,1,0,0,0.034,25.0
+Hong Kong,Hong Kong,45,0,0,0,0,0,1,0,1,0.034,25.0
+Hong Kong,Hong Kong,46,0,0,0,0,0,0,1,2,0.034,25.0
+Hong Kong,Hong Kong,68,0,0,0,0,0,1,0,6,0.034,25.0
+Hong Kong,Hong Kong,70,0,0,0,0,0,0,1,6,0.034,25.0
+Hong Kong,Hong Kong,75,0,0,0,0,0,1,0,6,0.034,25.0
+Hong Kong,Hong Kong,38,0,0,0,0,0,0,1,0,0.034,25.0
+Hong Kong,Hong Kong,58,0,0,0,0,0,1,0,2,0.034,25.0
+Hong Kong,Hong Kong,48,0,0,0,0,0,1,0,1,0.034,25.0
+Hong Kong,Hong Kong,96,0,0,0,0,0,0,1,9,0.034,25.0
+Hong Kong,Hong Kong,68,0,0,0,0,0,1,0,2,0.034,25.0
+Hong Kong,Hong Kong,62,0,0,0,0,0,1,0,12,0.034,25.0
+Hong Kong,Hong Kong,80,0,0,0,0,0,0,1,14,0.034,25.0
+Hong Kong,Hong Kong,76,0,0,0,0,0,0,1,9,0.034,25.0
+Hong Kong,Hong Kong,35,0,0,0,0,0,1,0,2,0.034,25.0
+Hong Kong,Hong Kong,57,0,0,0,0,0,0,1,4,0.034,25.0
+Hong Kong,Hong Kong,68,0,0,0,0,0,0,1,4,0.034,25.0
+Hong Kong,Hong Kong,60,0,0,0,0,0,0,1,12,0.034,25.0
+Hong Kong,Hong Kong,49,0,0,0,0,0,0,1,4,0.034,25.0
+Hong Kong,Hong Kong,21,0,0,0,0,0,0,1,13,0.034,25.0
+Hong Kong,Hong Kong,16,0,0,0,0,0,1,0,8,0.034,25.0
+Hong Kong,Hong Kong,80,0,0,0,0,0,1,0,0,0.034,25.0
+Hong Kong,Hong Kong,29,0,0,0,0,0,0,1,4,0.034,25.0
+Hong Kong,Hong Kong,26,0,0,0,0,0,1,0,1,0.034,25.0
+Hong Kong,Hong Kong,70,0,0,0,0,0,0,1,0,0.034,25.0
+Hong Kong,Hong Kong,89,0,0,0,0,0,0,1,1,0.034,25.0
+Hong Kong,Hong Kong,71,0,0,0,0,0,0,1,2,0.034,25.0
+Hong Kong,Hong Kong,79,0,0,0,0,0,1,0,1,0.034,25.0
+Lombardy,Italy,38,0,0,0,0,0,1,0,2,0.1055978172905732,205.45074794315602
+Manila,Phillipines,44,0,0,0,1,1,1,0,0,0.034,25.0
+Lapland,Finland,32,0,0,0,1,0,0,1,2,0.0067243035542747355,18.1568556480537
+Castile and Leon,Spain,18,0,0,0,0,0,1,0,1,0.07818134785982744,93.5290582615872
