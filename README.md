@@ -7,8 +7,8 @@
 ---
 
 ## Technologies used in this project:
-![ReactJS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png "ReactJS")
-![Pandas](https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png "Pandas")
+![ReactJS](assets/img/ReactJS.png?v=200&s=200 "ReactJS")
+![Pandas](assets/img/Pandas.png?v=200&s=200 "Pandas")
 * **ReactJS**
   * Used ReactJS to develop the front-end website for user interaction
 * **Django**
