@@ -23,7 +23,7 @@
 
 ## Programming languages:
 
-<img src="assets/img/python.png" alt="Python" title="Python" width="150px" height="150px"><img src="assets/img/javascript.jpg" alt="JavaScript" title="JavaScript" width="150px" height="150px"><img src="assets/img/ruby.png" alt="Ruby" title="Ruby" width="150px" height="150px">
+<img src="assets/img/python.png" alt="Python" title="Python" width="150px" height="150px"><img src="assets/img/javascript.png" alt="JavaScript" title="JavaScript" width="150px" height="150px"><img src="assets/img/ruby.png" alt="Ruby" title="Ruby" width="150px" height="150px">
 
 * **Python** (3.7.7)
   * Project's main programming language
