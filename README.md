@@ -7,8 +7,8 @@
 ---
 
 ## Technologies used in this project:
-![ReactJS](assets/img/ReactJS.png?v=200&s=200 "ReactJS")
-![Pandas](assets/img/Pandas.png?v=200&s=200 "Pandas")
+<img src="assets/img/ReactJS.png" alt="ReactJS" title="ReactJS" width="200px" height="200px">
+<img src="assets/img/Pandas.png" alt="Pandas" title="Pandas" width="200px" height="200px">
 * **ReactJS**
   * Used ReactJS to develop the front-end website for user interaction
 * **Django**
