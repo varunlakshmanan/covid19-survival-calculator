@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
-import pandas as pd
 import os
 import json
 import requests
+import pandas as pd
 from subprocess import Popen, PIPE
 
 
@@ -12,6 +12,7 @@ def download_us_states_mortality_rates_dataset():
     mortality_rate_data = json.loads(process.communicate()[0].decode().strip())
     df = pd.DataFrame(mortality_rate_data)
     df['mortality_rate'] = pd.Series([df['deaths'][i] / df['cases'][i] if df['cases'][i] > 0 else 0 for i in df.index])
+    df['state'] = df['state'].map(lambda x: x.lower() if type(x) == str else x)
     df.to_csv(os.path.join(os.path.dirname(__file__), 'datasets', 'us_states_mortality_rates.csv'), index=False)
 
 
@@ -25,6 +26,8 @@ def download_country_mortality_rates_dataset():
     df = df.rename(columns={'Deaths': 'deaths', 'Confirmed': 'cases', 'Country/Region': 'country', 'Province/State': 'state'})
     df = df.reset_index(drop=True)
     df['mortality_rate'] = pd.Series([df['deaths'][i] / df['cases'][i] if df['cases'][i] > 0 else 0 for i in df.index])
+    df['country'] = df['country'].map(lambda x: x.lower() if type(x) == str else x)
+    df['state'] = df['state'].map(lambda x: x.lower() if type(x) == str else x)
     df.to_csv(os.path.join(os.path.dirname(__file__), 'datasets', 'country_mortality_rates.csv'), index=False)
 
 
@@ -34,7 +37,7 @@ def merge_mortality_rates_datasets():
     df = df.drop(df.loc[df['country'] == 'US'].index)
     df = df.reset_index(drop=True)
     for i in df2.index:
-        df = df.append(pd.Series(['US', df2['states'][i], df2['cases'][i], df2['deaths'][i], df2['mortality_rate'][i]], index=['country', 'state', 'cases', 'deaths', 'mortality_rate']), ignore_index=True)
+        df = df.append(pd.Series(['US', df2['state'][i], df2['cases'][i], df2['deaths'][i], df2['mortality_rate'][i]], index=['country', 'state', 'cases', 'deaths', 'mortality_rate']), ignore_index=True)
     df = df.sort_values(['country', 'state'])
     df.to_csv(os.path.join(os.path.dirname(__file__), 'datasets', 'mortality_rates.csv'), index=False)
 

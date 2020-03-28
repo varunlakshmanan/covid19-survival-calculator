@@ -22,4 +22,4 @@ deaths = document.css("tr > td:nth-child(4)")[0...-3].map do |x|
   x.text.strip.gsub(",", "").to_i
 end
 
-puts "{\"states\": #{states}, \"cases\": #{cases}, \"deaths\": #{deaths}}"
+puts "{\"state\": #{states}, \"cases\": #{cases}, \"deaths\": #{deaths}}"

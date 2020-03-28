@@ -1,10 +1,10 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+import os
+import sys
 import json
 import requests
 from subprocess import Popen, PIPE
-import os
-import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from data import dataset
 
