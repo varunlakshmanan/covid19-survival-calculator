@@ -1,0 +1,359 @@
+country,state,cases,deaths,mortality_rate
+Afghanistan,,94,4,0.011235955056179777
+Albania,,174,6,0.038314176245210725
+Algeria,,367,25,0.0026041666666666665
+Andorra,,224,3,
+Angola,,4,0,
+Antigua and Barbuda,,7,0,
+Argentina,,502,9,
+Armenia,,290,1,
+Australia,Australian Capital Territory,53,0,
+Australia,New South Wales,1219,7,
+Australia,Northern Territory,12,0,
+Australia,Queensland,493,1,
+Australia,South Australia,235,0,
+Australia,Tasmania,47,0,
+Australia,Victoria,520,3,
+Australia,Western Australia,231,2,
+Austria,,6909,49,
+Azerbaijan,,122,3,
+Bahamas,,9,0,
+Bahrain,,458,4,
+Bangladesh,,44,5,
+Barbados,,18,0,
+Belarus,,86,0,
+Belgium,,6235,220,
+Belize,,2,0,
+Benin,,6,0,
+Bhutan,,2,0,
+Bolivia,,43,0,
+Bosnia and Herzegovina,,191,3,
+Brazil,,2985,77,
+Brunei,,114,0,
+Bulgaria,,264,3,
+Burkina Faso,,152,7,
+Cabo Verde,,4,1,
+Cambodia,,96,0,
+Cameroon,,75,1,
+Canada,Alberta,486,2,
+Canada,British Columbia,725,14,
+Canada,Diamond Princess,0,1,
+Canada,Grand Princess,13,0,
+Canada,Manitoba,36,0,
+Canada,New Brunswick,33,0,
+Canada,Newfoundland and Labrador,82,0,
+Canada,Northwest Territories,1,0,
+Canada,Nova Scotia,73,0,
+Canada,Ontario,858,13,
+Canada,Prince Edward Island,5,0,
+Canada,Quebec,1632,8,
+Canada,Recovered,0,0,
+Canada,Saskatchewan,95,0,
+Canada,Yukon,3,0,
+Central African Republic,,3,0,
+Chad,,3,0,
+Chile,,1306,4,
+China,Anhui,990,6,
+China,Beijing,566,8,
+China,Chongqing,578,6,
+China,Fujian,328,1,
+China,Gansu,136,2,
+China,Guangdong,1448,8,
+China,Guangxi,254,2,
+China,Guizhou,146,2,
+China,Hainan,168,6,
+China,Hebei,319,6,
+China,Heilongjiang,484,13,
+China,Henan,1275,22,
+China,Hong Kong,453,4,
+China,Hubei,67801,3169,
+China,Hunan,1018,4,
+China,Inner Mongolia,89,1,
+China,Jiangsu,640,0,
+China,Jiangxi,936,1,
+China,Jilin,95,1,
+China,Liaoning,128,2,
+China,Macau,31,0,
+China,Ningxia,75,0,
+China,Qinghai,18,0,
+China,Shaanxi,253,3,
+China,Shandong,771,7,
+China,Shanghai,451,5,
+China,Shanxi,135,0,
+China,Sichuan,547,3,
+China,Tianjin,151,3,
+China,Tibet,1,0,
+China,Xinjiang,76,3,
+China,Yunnan,178,2,
+China,Zhejiang,1243,1,
+Colombia,,491,6,
+Congo (Brazzaville),,4,0,
+Congo (Kinshasa),,51,3,
+Costa Rica,,231,2,
+Cote d'Ivoire,,96,0,
+Croatia,,495,3,
+Cuba,,67,2,
+Cyprus,,146,3,
+Czechia,,1925,9,
+Denmark,Faroe Islands,140,0,
+Denmark,Greenland,6,0,
+Denmark,,1877,41,
+Diamond Princess,,712,10,
+Djibouti,,11,0,
+Dominica,,11,0,
+Dominican Republic,,488,10,
+Ecuador,,1403,34,
+Egypt,,495,24,
+El Salvador,,13,0,
+Equatorial Guinea,,12,0,
+Eritrea,,6,0,
+Estonia,,538,1,
+Eswatini,,6,0,
+Ethiopia,,12,0,
+Fiji,,5,0,
+Finland,,958,5,
+France,French Guiana,28,0,
+France,French Polynesia,30,0,
+France,Guadeloupe,73,1,
+France,Martinique,66,1,
+France,Mayotte,36,0,
+France,New Caledonia,14,0,
+France,Reunion,135,0,
+France,Saint Barthelemy,3,0,
+France,St Martin,11,0,
+France,,29155,1696,
+Gabon,,7,1,
+Gambia,,3,1,
+Georgia,,79,0,
+Germany,,43938,267,
+Ghana,,132,4,
+Greece,,892,26,
+Grenada,,7,0,
+Guatemala,,25,1,
+Guinea,,4,0,
+Guinea-Bissau,,2,0,
+Guyana,,5,1,
+Haiti,,8,0,
+Holy See,,4,0,
+Honduras,,52,1,
+Hungary,,261,10,
+Iceland,,802,2,
+India,,727,20,
+Indonesia,,893,78,
+Iran,,29406,2234,
+Iraq,,382,36,
+Ireland,,1819,19,
+Israel,,2693,8,
+Italy,,80589,8215,
+Jamaica,,26,1,
+Japan,,1387,47,
+Jordan,,212,0,
+Kazakhstan,,111,1,
+Kenya,,31,1,
+"Korea, South",,9241,131,
+Kosovo,,71,1,
+Kuwait,,208,0,
+Kyrgyzstan,,44,0,
+Laos,,6,0,
+Latvia,,244,0,
+Lebanon,,368,6,
+Liberia,,3,0,
+Libya,,1,0,
+Liechtenstein,,56,0,
+Lithuania,,299,4,
+Luxembourg,,1453,9,
+Madagascar,,23,0,
+Malaysia,,2031,23,
+Maldives,,13,0,
+Mali,,4,0,
+Malta,,134,0,
+Mauritania,,3,0,
+Mauritius,,81,2,
+Mexico,,475,6,
+Moldova,,177,1,
+Monaco,,33,0,
+Mongolia,,11,0,
+Montenegro,,69,1,
+Morocco,,275,11,
+Mozambique,,7,0,
+Namibia,,8,0,
+Nepal,,3,0,
+Netherlands,Aruba,28,0,
+Netherlands,Curacao,6,1,
+Netherlands,Sint Maarten,3,0,
+Netherlands,,7431,434,
+New Zealand,,283,0,
+Nicaragua,,2,0,
+Niger,,10,1,
+Nigeria,,65,1,
+North Macedonia,,201,3,
+Norway,,3369,14,
+Oman,,109,0,
+Pakistan,,1201,9,
+Panama,,558,8,
+Papua New Guinea,,1,0,
+Paraguay,,41,3,
+Peru,,580,9,
+Philippines,,707,45,
+Poland,,1221,16,
+Portugal,,3544,60,
+Qatar,,549,0,
+Romania,,1029,23,
+Russia,,840,3,
+Rwanda,,50,0,
+Saint Kitts and Nevis,,2,0,
+Saint Lucia,,3,0,
+Saint Vincent and the Grenadines,,1,0,
+San Marino,,208,21,
+Saudi Arabia,,1012,3,
+Senegal,,105,0,
+Serbia,,384,1,
+Seychelles,,7,0,
+Singapore,,683,2,
+Slovakia,,226,0,
+Slovenia,,562,6,
+Somalia,,2,0,
+South Africa,,927,0,
+Spain,,57786,4365,
+Sri Lanka,,106,0,
+Sudan,,3,1,
+Suriname,,8,0,
+Sweden,,2840,77,
+Switzerland,,11811,191,
+Syria,,5,0,
+Taiwan*,,252,2,
+Tanzania,,13,0,
+Thailand,,1045,4,
+Timor-Leste,,1,0,
+Togo,,23,0,
+Trinidad and Tobago,,65,1,
+Tunisia,,197,6,
+Turkey,,3629,75,
+US,Alabama,627,3,0.004784688995215311
+US,Alabama,627,3,0.004784688995215311
+US,Alaska,85,1,0.011764705882352941
+US,Alaska,69,1,0.014492753623188406
+US,Arizona,665,13,0.019548872180451128
+US,Arizona,665,13,0.019548872180451128
+US,Arkansas,381,3,0.007874015748031496
+US,Arkansas,381,3,0.007874015748031496
+US,California,4854,99,0.0203955500618047
+US,California,4791,94,0.01962012106032144
+US,Colorado,1734,31,0.017877739331026533
+US,Colorado,1734,31,0.017877739331026533
+US,Connecticut,1291,27,0.0209140201394268
+US,Connecticut,1291,27,0.0209140201394268
+US,Delaware,165,2,0.01212121212121212
+US,Delaware,165,2,0.01212121212121212
+US,Diamond Princess Cruise,46,0,0.0
+US,District Of Columbia,304,4,0.013157894736842105
+US,District Of Columbia,304,4,0.013157894736842105
+US,Florida,3198,46,0.01438398999374609
+US,Florida,3198,46,0.01438398999374609
+US,Georgia,2198,65,0.029572338489535943
+US,Georgia,2198,65,0.029572338489535943
+US,Guam,51,1,0.0196078431372549
+US,Guam,51,1,0.0196078431372549
+US,Hawaii,120,0,0.0
+US,Hawaii,120,0,0.0
+US,Idaho,230,3,0.013043478260869565
+US,Idaho,230,3,0.013043478260869565
+US,Illinois,3026,34,0.011235955056179777
+US,Illinois,3026,34,0.011235955056179777
+US,Indiana,981,24,0.024464831804281342
+US,Indiana,981,24,0.024464831804281342
+US,Iowa,235,3,0.01276595744680851
+US,Iowa,235,3,0.01276595744680851
+US,Kansas,202,4,0.0198019801980198
+US,Kansas,202,4,0.0198019801980198
+US,Kentucky,302,8,0.026490066225165563
+US,Kentucky,302,8,0.026490066225165563
+US,Louisiana,2746,119,0.043335761107064816
+US,Louisiana,2746,119,0.043335761107064816
+US,Maine,168,1,0.005952380952380952
+US,Maine,168,1,0.005952380952380952
+US,Maryland,774,5,0.006459948320413436
+US,Maryland,774,5,0.006459948320413436
+US,Massachusetts,3240,35,0.010802469135802469
+US,Massachusetts,3240,35,0.010802469135802469
+US,Michigan,3657,92,0.025157232704402517
+US,Michigan,3657,92,0.025157232704402517
+US,Minnesota,398,4,0.010050251256281407
+US,Minnesota,398,4,0.010050251256281407
+US,Mississippi,579,8,0.013816925734024179
+US,Mississippi,579,8,0.013816925734024179
+US,Missouri,670,9,0.013432835820895522
+US,Missouri,670,9,0.013432835820895522
+US,Montana,121,1,0.008264462809917356
+US,Montana,121,1,0.008264462809917356
+US,Nebraska,85,0,0.0
+US,Nebraska,85,0,0.0
+US,Nevada,535,10,0.018691588785046728
+US,Nevada,535,10,0.018691588785046728
+US,New Hampshire,187,2,0.0106951871657754
+US,New Hampshire,187,2,0.0106951871657754
+US,New Jersey,8825,108,0.012237960339943343
+US,New Jersey,8825,108,0.012237960339943343
+US,New Mexico,191,1,0.005235602094240838
+US,New Mexico,191,1,0.005235602094240838
+US,New York,46262,606,0.013099303964376809
+US,New York,46262,606,0.013099303964376809
+US,North Carolina,880,3,0.003409090909090909
+US,North Carolina,880,3,0.003409090909090909
+US,North Dakota,68,1,0.014705882352941175
+US,North Dakota,68,1,0.014705882352941175
+US,Ohio,1137,19,0.016710642040457344
+US,Ohio,1137,19,0.016710642040457344
+US,Oklahoma,322,8,0.024844720496894408
+US,Oklahoma,322,8,0.024844720496894408
+US,Oregon,414,11,0.026570048309178744
+US,Oregon,414,11,0.026570048309178744
+US,Pennsylvania,2218,22,0.009918845807033365
+US,Pennsylvania,2218,22,0.009918845807033365
+US,Puerto Rico,79,3,0.0379746835443038
+US,Puerto Rico,79,3,0.0379746835443038
+US,Rhode Island,203,0,0.0
+US,Rhode Island,203,0,0.0
+US,South Carolina,539,13,0.02411873840445269
+US,South Carolina,539,13,0.02411873840445269
+US,South Dakota,58,1,0.017241379310344827
+US,South Dakota,58,1,0.017241379310344827
+US,Tennessee,1203,6,0.004987531172069825
+US,Tennessee,1203,6,0.004987531172069825
+US,Texas,1950,26,0.013333333333333334
+US,Texas,1950,26,0.013333333333333334
+US,Total:,104205,1701,0.01632359291780625
+US,United States Virgin Islands,19,0,0.0
+US,United States Virgin Islands,19,0,0.0
+US,Utah,480,2,0.0041666666666666675
+US,Utah,480,2,0.0041666666666666675
+US,Vermont,184,10,0.05434782608695652
+US,Vermont,184,10,0.05434782608695652
+US,Virginia,604,14,0.023178807947019868
+US,Virginia,604,14,0.023178807947019868
+US,Washington,3700,175,0.0472972972972973
+US,Washington,3700,175,0.0472972972972973
+US,West Virginia,96,1,0.010416666666666666
+US,West Virginia,96,1,0.010416666666666666
+US,Wisconsin,842,14,0.0166270783847981
+US,Wisconsin,842,14,0.0166270783847981
+US,Wuhan Repatriated,3,0,0.0
+US,Wyoming,73,0,0.0
+US,Wyoming,73,0,0.0
+Uganda,,14,0,
+Ukraine,,196,5,
+United Arab Emirates,,333,2,
+United Kingdom,Bermuda,15,0,
+United Kingdom,Cayman Islands,8,1,
+United Kingdom,Channel Islands,66,1,
+United Kingdom,Gibraltar,35,0,
+United Kingdom,Isle of Man,25,0,
+United Kingdom,Montserrat,5,0,
+United Kingdom,,11658,578,
+Uruguay,,217,0,
+Uzbekistan,,75,0,
+Venezuela,,107,0,
+Vietnam,,153,0,
+West Bank and Gaza,,84,1,
+Zambia,,16,0,
+Zimbabwe,,3,1,
