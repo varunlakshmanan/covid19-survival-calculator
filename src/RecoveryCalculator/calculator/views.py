@@ -43,4 +43,5 @@ def update_databases(request, **kwargs):
     dataset.download_us_states_mortality_rates_dataset()
     dataset.download_country_mortality_rates_dataset()
     dataset.merge_mortality_rates_datasets()
+    dataset.merge_into_original_dataset()
     return HttpResponse('Test')

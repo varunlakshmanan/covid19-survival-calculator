@@ -42,7 +42,7 @@ def merge_mortality_rates_datasets():
 def merge_into_original_dataset():
     # Mortality rate
     df = pd.read_csv(os.path.join(os.path.dirname(__file__), 'datasets', 'data.csv'))
-    df2 = pd.reda_csv(os.path.jion(os.path.dirname(__file__), 'datasets', 'mortality_rates.csv'))
+    df2 = pd.read_csv(os.path.join(os.path.dirname(__file__), 'datasets', 'mortality_rates.csv'))
 
     series = []
     for i in df.index:
