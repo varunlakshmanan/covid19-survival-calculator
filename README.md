@@ -6,7 +6,7 @@
 
 ---
 
-## Technologies used in this project:
+## Technologies used in this project
 
 <img src="assets/img/reactjs.png" alt="ReactJS" title="ReactJS" width="150px" height="150px"><img src="assets/img/django.png" alt="Django" title="Django" width="150px" height="150px"><img src="assets/img/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="150px" height="150px"><img src="assets/img/pandas.png" alt="Pandas" title="Pandas" width="150px" height="150px"><img src="assets/img/nokogiri.png" alt="Nokogiri" title="Nokogiri" width="150px" height="150px">
 
@@ -21,7 +21,7 @@
 * **Nokogiri**
   * Web scraped COVID-19 status pages to download and form datasets
 
-## Programming languages:
+## Programming languages
 
 <img src="assets/img/python.png" alt="Python" title="Python" width="150px" height="150px"><img src="assets/img/javascript.png" alt="JavaScript" title="JavaScript" width="150px" height="150px"><img src="assets/img/ruby.png" alt="Ruby" title="Ruby" width="150px" height="150px">
 
@@ -33,7 +33,14 @@
 * **Ruby**
   * Required for web scraping COVID-19 status pages for live data
 
-## Online datasets used
+## Online datasets
+
 * [DataHub.io Worldwide Time Series](https://datahub.io/core/covid-19)
 * [Worldometers.info US States Cases/Deaths](https://www.worldometers.info/coronavirus/country/us/)
 * [Worldbank.org Worldwide Population Density](https://data.worldbank.org/indicator/en.pop.dnst)
+
+## Team
+* **Ashish D'Souza** - [computer-geek64](https://github.com/computer-geek64)
+* **Varun Lakshmanan** - [varunlakshmanan](https://github.com/varunlakshmanan)
+* **Pranav Pusarla** - [PranavPusarla](https://github.com/PranavPusarla)
+* **Sharath Palathingal** - [therealsharath](https://github.com/therealsharath)
