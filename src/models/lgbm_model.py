@@ -17,7 +17,7 @@ def create_light_gradient_boosting_model(test_data):
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.1, random_state=0)
 
     import lightgbm as lgb
-    train_dataset = lgb.Dataset(X_train, label=y_train)
+    train_dataset = lgb.Dataset(X_train, label=y_train, params={'verbose': -1})
     param = {'num_leaves': 64,
              'objective': 'binary',
              'learning_rate': 0.005,
@@ -25,7 +25,8 @@ def create_light_gradient_boosting_model(test_data):
              'max_depth': 8,
              'num_iterations': 500,
              'min_data_in_leaf': 55,
-             'metric': 'auc'}
+             'metric': 'auc',
+             'verbose': -1}
     bst = lgb.train(param, train_dataset, 100)
 
     from sklearn.metrics import roc_auc_score
