@@ -56,7 +56,6 @@
                 <option value="yes">Yes</option>
                 <option value="no">No</option>
             </select>
-            <!--<input type="text" name="medical_conditions" placeholder="Medical conditions" required>-->
             <input type="checkbox" name="medical_conditions" value="cardiovascular disease" id="cardiovascular-diesease-checkbox">
             <label for="cardiovascular-diesease-checkbox">Cardiovascular Disease</label><br>
             <input type="checkbox" name="medical_conditions" value="diabetes" id="diabetes-checkbox">
@@ -73,13 +72,9 @@
         </fieldset>
     </form>
     <script>
-        function getPublicIP() {
-            var xmlHttp = new XMLHttpRequest();
-            xmlHttp.open('GET', 'https://ipecho.net/plain', false);
-            xmlHttp.send();
-            return xmlHttp.responseText;
-        }
-
-        document.querySelector('#ip-input').setAttribute('value', getPublicIP())
+        var xmlHttp = new XMLHttpRequest();
+        xmlHttp.open('GET', 'https://ipecho.net/plain', false);
+        xmlHttp.send();
+        document.querySelector('#ip-input').setAttribute('value', xmlHttp.responseText);
     </script>
 {% endblock %}

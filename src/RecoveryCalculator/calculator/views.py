@@ -30,7 +30,7 @@ def home(request):
 #   gender: string of either 'male' or 'female'
 #   symptom_onset_hospitalization: integer representing the number of days between symptom onset and hospitalization
 #   high_risk_travel: string of either 'yes' or 'no'
-#   medical_conditions: string representing prior medical conditions (see Google Doc for possible choices)
+#   medical_conditions: list of chosen medical conditions (see Google Doc for possible choices)
 @csrf_exempt
 def predict(request):
     ip = request.POST.get('ip')
