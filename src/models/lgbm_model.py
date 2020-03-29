@@ -1,7 +1,7 @@
-def create_light_gradient_boosting_model(test_data):
-    import os
-    import pandas as pd
+import os
+import pandas as pd
 
+def create_light_gradient_boosting_model(test_data):
     data_file_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'datasets', 'data.csv')
     data = pd.read_csv(data_file_path)
 
