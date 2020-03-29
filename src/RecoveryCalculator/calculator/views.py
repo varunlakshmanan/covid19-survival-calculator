@@ -10,6 +10,7 @@ import pandas as pd
 from subprocess import Popen, PIPE
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from data import dataset
+from models import model_ensemble
 from django.views.decorators.csrf import csrf_exempt
 from calculator.models import Person
 
@@ -37,10 +38,7 @@ def predict(request):
     region = ip_data['regionName'].lower()
     country = 'us' if ip_data['country'] == 'United States' else ip_data['country'].lower()
     data = {
-        'region': region,
-        'country': country,
         'age': int(request.POST.get('age')),
-        'death': 0,
         'male': 1 - int(request.POST.get('gender').lower() in ['female', 'f']),
         'female': int(request.POST.get('gender').lower() in ['female', 'f']),
         'symptom_onset_hospitalization': int(request.POST.get('symptom_onset_hospitalization')),
@@ -64,12 +62,10 @@ def predict(request):
 
     medical_condition_factor = 200 / (1 + math.exp(-medical_condition_factor / 100)) - 100 if medical_condition_factor > 1 else 1.0  # Modified sigmoid function, goes from 0 to a cap of 100
 
-    print(medical_condition_factor)
-
-    p = Person(**data)
+    #p = Person(**data)
     #p.save()
 
-    return HttpResponse(str(list(df.values[0])))
+    return HttpResponse(str(round(model_ensemble.predict(df)[0] * 100 * medical_condition_factor, 2)) + '%')
 
 
 def update_databases(request):
