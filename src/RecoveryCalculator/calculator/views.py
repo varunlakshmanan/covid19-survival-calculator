@@ -68,7 +68,6 @@ def predict(request):
 
     medical_condition_factor = 200 / (1 + math.exp(-medical_condition_factor / 100)) - 100 if medical_condition_factor > 1 else 1.0  # Modified sigmoid function, goes from 0 to a cap of 100
 
-
     p = Person(**data)
     #p.save()
 
