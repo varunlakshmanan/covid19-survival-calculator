@@ -47,7 +47,7 @@ def merge_into_original_dataset():
     df = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'datasets', 'data.csv'))
     df2 = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'datasets', 'mortality_rates.csv'))
 
-    df['mortality_rate'] = pd.Series([get_mortality_rate(df['country'][i], df['region'][i], df=df2)])
+    df['mortality_rate'] = pd.Series([get_mortality_rate(df['country'][i], df['region'][i], df=df2) for i in df.index])
 
     # Population density
     df2 = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'datasets', 'population_density.csv'))
