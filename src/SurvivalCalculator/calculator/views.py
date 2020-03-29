@@ -67,7 +67,14 @@ def predict(request):
     #p.save()
 
     prediction = model_ensemble.predict(df)[0] * 100
-    probability = 100 - round(min(prediction * medical_condition_factor, 100), 2)
+    print(prediction)
+
+    prediction *= medical_condition_factor
+    print(prediction)
+    if prediction > 50:
+        prediction = -2500 / prediction + 100
+
+    probability = 100 - round(min(prediction, 100), 2)
 
     return render(request, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates', 'predict.html'), {'title': 'COVID-19 Survival Calculator', 'probability': probability})
 
