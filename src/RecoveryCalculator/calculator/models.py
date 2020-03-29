@@ -4,7 +4,7 @@ import pandas as pd
 
 
 class Person(models.Model):
-    location = models.TextField()
+    region = models.TextField()
     country = models.TextField()
     age = models.IntegerField()
     death = models.BooleanField()
@@ -16,13 +16,13 @@ class Person(models.Model):
     high_risk_travel = models.BooleanField()
 
     def __str__(self):
-        return str(self.location) + ', ' + str(self.country)
+        return str(self.region) + ', ' + str(self.country)
 
     @staticmethod
     def to_data_frame():
         people = Person.objects.all()
         data = {
-            'location': [],
+            'region': [],
             'country': [],
             'age': [],
             'death': [],
@@ -34,7 +34,7 @@ class Person(models.Model):
             'high_risk_travel': []
         }
         for person in people:
-            data['location'].append(person.location)
+            data['region'].append(person.location)
             data['country'].append(person.country)
             data['age'].append(person.age)
             data['death'].append(int(person.death))
@@ -50,4 +50,4 @@ class Person(models.Model):
     def to_new_csv():
         df = pd.read_csv(os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'data', 'datasets', 'data.csv'))
         df2 = Person.to_data_frame()
-        df.append(df2).sort_values(['country', 'location']).reset_index(drop=True).to_csv(os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'data', 'datasets', 'new_data.csv'), index=False)
+        df.append(df2).sort_values(['country', 'region']).reset_index(drop=True).to_csv(os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'data', 'datasets', 'new_data.csv'), index=False)

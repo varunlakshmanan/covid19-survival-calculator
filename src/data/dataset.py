@@ -47,28 +47,30 @@ def merge_into_original_dataset():
     df = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'datasets', 'data.csv'))
     df2 = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'datasets', 'mortality_rates.csv'))
 
-    series = []
-    for i in df.index:
-        if df['country'][i] in df2['country'].values:
-            series.append(df2.loc[df2['country'] == df['country'][i]].iloc[0]['mortality_rate'])
-            for j in df2.loc[df2['country'] == df['country'][i]].index:
-                if not type(df2['state'][j]) == float and df2['state'][j] in df['location'][i]:
-                    series[-1] = df2['mortality_rate'][j]
-                    break
-        else:
-            series.append(0.034)  # Worldwide mortality rate
-    series = pd.Series(series)
-    df['mortality_rate'] = series
+    df['mortality_rate'] = pd.Series([get_mortality_rate(df['country'][i], df['region'][i], df=df2)])
 
     # Population density
     df2 = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'datasets', 'population_density.csv'))
 
-    series = []
-    for i in df.index:
-        if df['country'][i] in df2['country'].values:
-            series.append(df2.loc[df2['country'] == df['country'][i]].iloc[0]['pop_density'])
-        else:
-            series.append(25)  # Worldwide population density
-    series = pd.Series(series)
-    df['pop_density'] = series
+    df['pop_density'] = pd.Series([get_pop_density(df['country'][i], df=df2) for i in df.index])
     df.to_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'datasets', 'data.csv'), index=False)
+
+
+def get_mortality_rate(country, region, df=pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'datasets', 'mortality_rates.csv'))):
+    if country in df['country'].values:
+        mortality_rate = df.loc[df['country'] == country].iloc[0]['mortality_rate']
+        for i in df.loc[df['country'] == country].index:
+            if not type(df['state'][i]) == float and df['state'][i] in region:
+                mortality_rate = df['mortality_rate'][i]
+                break
+    else:
+        mortality_rate = 0.034  # Worldwide mortality rate
+    return mortality_rate
+
+
+def get_pop_density(country, df=pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'datasets', 'population_density.csv'))):
+    if country in df['country'].values:
+        pop_density = df.loc[df['country'] == country].iloc[0]['pop_density']
+    else:
+        pop_density = 25  # Worldwide population density
+    return pop_density
