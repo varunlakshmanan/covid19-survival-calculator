@@ -19,6 +19,10 @@
         margin-top: 10px
     }
 
+    input[type=checkbox] {
+        margin-top: 10px;
+    }
+
     select {
         border: 2px solid #DDDDDD;
         border-radius: 3px;
@@ -52,7 +56,17 @@
                 <option value="yes">Yes</option>
                 <option value="no">No</option>
             </select>
-            <input type="text" name="medical_conditions" placeholder="Medical conditions" required>
+            <!--<input type="text" name="medical_conditions" placeholder="Medical conditions" required>-->
+            <input type="checkbox" name="medical_conditions" value="cardiovascular disease" id="cardiovascular-diesease-checkbox">
+            <label for="cardiovascular-diesease-checkbox">Cardiovascular Disease</label><br>
+            <input type="checkbox" name="medical_conditions" value="diabetes" id="diabetes-checkbox">
+            <label for="diabetes-checkbox">Diabetes</label><br>
+            <input type="checkbox" name="medical_conditions" value="chronic respiratory disease" id="chronic-respiratory-disease-checkbox">
+            <label for="chronic-respiratory-disease-checkbox">Chronic Respiratory Disease</label><br>
+            <input type="checkbox" name="medical_conditions" value="hypertension" id="hypertension-checkbox">
+            <label for="hypertension-checkbox">Hypertension</label><br>
+            <input type="checkbox" name="medical_conditions" value="cancer" id="cancer-checkbox">
+            <label for="cancer-checkbox">Cancer</label><br>
             <input id="ip-input" type="hidden" name="ip" value="">
             <input class="form-button" type="submit" value="Submit">
             <input class="form-button" type="reset" value="Reset">
