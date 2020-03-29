@@ -11,7 +11,9 @@
 <img src="assets/img/xgboost.png" alt="XGBoost" title="XGBoost" width="150px" height="150px"><img src="assets/img/django.png" alt="Django" title="Django" width="150px" height="150px"><img src="assets/img/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="150px" height="150px"><img src="assets/img/pandas.png" alt="Pandas" title="Pandas" width="150px" height="150px"><img src="assets/img/jinja.png" alt="Jinja" title="Jinja" width="150px" height="150px"><img src="assets/img/nokogiri.png" alt="Nokogiri" title="Nokogiri" width="150px" height="150px">
 
 * **XGBoost**
-  * Developed a gradient boosting machine learning algorithm to accurately predict coronavirus survival rate
+  * Developed a gradient boosting machine learning algorithm to accurately predict coronavirus survival rate (ensembled with a LightGB model for 95% AUC
+* **LightGB**
+  * Developed a gradient boosted model with optimized hyperparameters to predict coronavirus survival (ensembled with an XGBoost  model for 95% AUC)
 * **Django**
   * Created a custom REST API for the front-end to call for making predictions and storing user data
 * **PostgreSQL**
