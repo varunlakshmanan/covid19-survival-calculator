@@ -9,6 +9,7 @@ from subprocess import Popen, PIPE
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 from data import dataset
 from django.views.decorators.csrf import csrf_exempt
+from calculator.models import Person
 
 
 def index(request):
@@ -38,18 +39,20 @@ def predict(request):
     region = ip_data['regionName'].lower()
     country = 'us' if ip_data['country'] == 'United States' else ip_data['country'].lower()
 
-    df = pd.DataFrame({
-        'region': [region],
-        'country': [country],
-        'age': [int(''.join(request.POST.get('age')))],
-        'death': [0],
-        'male': [1 - int(''.join(request.POST.get('gender')).lower() in ['female', 'f'])],
-        'female': [int(''.join(request.POST.get('gender')).lower() in ['female', 'f'])],
-        'symptom_onset_hospitalization': [int(''.join(request.POST.get('symptom_onset_hospitalization')))],
-        'mortality_rate': [dataset.get_mortality_rate(country, region)],
-        'pop_density': [dataset.get_pop_density(country)],
-        'high_risk_travel': [int(''.join(request.POST.get('high_risk_travel')).lower() in ['yes', 'y'])]
-    })
+    data = {
+        'region': region,
+        'country': country,
+        'age': int(''.join(request.POST.get('age'))),
+        'death': 0,
+        'male': 1 - int(''.join(request.POST.get('gender')).lower() in ['female', 'f']),
+        'female': int(''.join(request.POST.get('gender')).lower() in ['female', 'f']),
+        'symptom_onset_hospitalization': int(''.join(request.POST.get('symptom_onset_hospitalization'))),
+        'mortality_rate': dataset.get_mortality_rate(country, region),
+        'pop_density': dataset.get_pop_density(country),
+        'high_risk_travel': int(''.join(request.POST.get('high_risk_travel')).lower() in ['yes', 'y'])
+    }
+
+    df = pd.DataFrame({k: [v] for k, v in data.items()})
 
     medical_condition_death_rates = {
         'cardiovascular disease': 0.015,
@@ -63,6 +66,9 @@ def predict(request):
     medical_conditions = ''.join(request.POST.get('medical_conditions'))
 
     medical_conditions = medical_condition_death_rates[medical_conditions.lower()] if medical_conditions.lower() in medical_condition_death_rates.keys() else medical_condition_death_rates['none']
+
+    p = Person(**data)
+    p.save()
 
     return HttpResponse(str(list(df.values[0])))
 
