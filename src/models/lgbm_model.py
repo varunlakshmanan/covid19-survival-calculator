@@ -1,6 +1,5 @@
 import os
 
-
 def create_light_gradient_boosting_model(test_data):
     import os
     import pandas as pd
