@@ -1,3 +1,6 @@
+import os
+
+
 def create_light_gradient_boosting_model(test_data):
     import os
     import pandas as pd
@@ -6,7 +9,7 @@ def create_light_gradient_boosting_model(test_data):
     #data_file_path = 'D:/Documents/Leetcode + Foobar + Kaggle/COVIDCalculator/updated_data.csv'
     data = pd.read_csv(data_file_path)
 
-    features = ['age', 'male', 'female', 'number of days between symptom onset and hospitalization', 'mortality_rate', 'pop_density', 'high risk travel']
+    features = ['age', 'male', 'female', 'symptom_onset_hospitalization', 'mortality_rate', 'pop_density', 'high_risk_travel']
     X = data[features]
     y = data.death
 

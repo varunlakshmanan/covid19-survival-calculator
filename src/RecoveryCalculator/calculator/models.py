@@ -34,7 +34,7 @@ class Person(models.Model):
             'high_risk_travel': []
         }
         for person in people:
-            data['region'].append(person.location)
+            data['region'].append(person.region)
             data['country'].append(person.country)
             data['age'].append(person.age)
             data['death'].append(int(person.death))
