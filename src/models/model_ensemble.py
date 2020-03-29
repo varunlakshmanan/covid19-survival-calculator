@@ -5,7 +5,7 @@ def predict(test_data):
     from lgbm_model import create_light_gradient_boosting_model
     lgbm_prob = create_light_gradient_boosting_model(test_data)
 
-    prob_avg = (xgb_prob * 0.51 + lgbm_prob * 0.49) / 2
+    prob_avg = xgb_prob * 0.51 + lgbm_prob * 0.49
     return prob_avg
 
     '''
