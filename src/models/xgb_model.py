@@ -22,3 +22,4 @@ def create_xgboost_model(test_data):
     #print(auc)
 
     return model.predict(test_data)
+

@@ -1,16 +1,11 @@
-import os
-import sys
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from xgb_model import create_xgboost_model
-from lgbm_model import create_light_gradient_boosting_model
-
-
 def predict(test_data):
+    from xgb_model import create_xgboost_model
     xgb_prob = create_xgboost_model(test_data)
 
+    from lgbm_model import create_light_gradient_boosting_model
     lgbm_prob = create_light_gradient_boosting_model(test_data)
 
-    prob_avg = xgb_prob * 0.51 + lgbm_prob * 0.49
+    prob_avg = (xgb_prob * 0.51 + lgbm_prob * 0.49) / 2
     return prob_avg
 
     '''
@@ -68,4 +63,4 @@ df = pd.DataFrame({
     'pop_density': [35.7660885],
     'high_risk_travel': [0]
 })
-#print(predict(df))
+print(predict(df))
