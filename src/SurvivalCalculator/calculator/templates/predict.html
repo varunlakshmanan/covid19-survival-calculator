@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+{% block style %}
+    .heading {
+        text-align: center;
+    }
+
+    #prediction {
+        {% if probability < 25 %}
+            color: red;
+        {% elif probability < 50 %}
+            color: orange;
+        {% elif probability < 75 %}
+            color: yellow;
+        {% else %}
+            color: green;
+        {% endif %}
+        font-size: 100px;
+    }
+{% endblock %}
+{% block content %}
+    <h1 class="heading" style="margin-top: 100px;">Your probability of surviving COVID-19 is:</h1>
+    <h1 class="heading" id="prediction">{{ probability }}%</h1>
+{% endblock %}
