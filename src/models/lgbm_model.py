@@ -19,8 +19,8 @@ def create_light_gradient_boosting_model(test_data):
              'learning_rate': 0.005,
              'boosting_type': 'dart',
              'max_depth': 8,
-             'num_iterations': 2500,
-             'min_data_in_leaf': 40,
+             'num_iterations': 500,
+             'min_data_in_leaf': 55,
              'metric': 'auc',
              'verbose': -1}
     bst = lgb.train(param, train_dataset, 100, verbose_eval=False)
