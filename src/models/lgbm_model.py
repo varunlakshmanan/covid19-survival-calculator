@@ -1,6 +1,6 @@
 def create_light_gradient_boosting_model(test_data):
-    import pandas as pd
     import os
+    import pandas as pd
     
     data_file_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'datasets', 'data.csv')
     #data_file_path = 'D:/Documents/Leetcode + Foobar + Kaggle/COVIDCalculator/updated_data.csv'
