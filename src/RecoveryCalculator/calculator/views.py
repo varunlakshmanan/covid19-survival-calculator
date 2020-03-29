@@ -65,7 +65,7 @@ def predict(request):
     #p = Person(**data)
     #p.save()
 
-    return HttpResponse(str(round(model_ensemble.predict(df)[0] * 100 * medical_condition_factor, 2)) + '%')
+    return HttpResponse('<h1 style=\"text-align: center; margin-top: 200px;\">You have an ' + str(100 - round(model_ensemble.predict(df)[0] * 100 * medical_condition_factor, 2)) + '% chance of surviving!</h1>')
 
 
 def update_databases(request):
