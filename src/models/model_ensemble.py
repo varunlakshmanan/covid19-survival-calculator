@@ -26,7 +26,3 @@ def predict(test_data):
         return 0
     return adjusted_prob_avg
     '''
-
-import pandas as pd
-test = pd.read_csv("D:/Documents/Leetcode + Foobar + Kaggle/COVIDCalculator/test.csv")
-print(predict(test))
