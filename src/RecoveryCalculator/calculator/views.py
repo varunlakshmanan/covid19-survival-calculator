@@ -66,9 +66,8 @@ def predict(request):
 
     medical_condition_factor = np.prod([medical_condition_death_rates[x] / medical_condition_death_rates['none'] for x in request.POST.getlist('medical_conditions')])
 
-    medical_condition_factor = 200 / (1 + math.exp(-medical_condition_factor / 100)) - 100 if medical_condition_factor > 1 else 1.0  # Modified sigmoid function
+    medical_condition_factor = 200 / (1 + math.exp(-medical_condition_factor / 100)) - 100 if medical_condition_factor > 1 else 1.0  # Modified sigmoid function, goes from 0 to a cap of 100
 
-    print(medical_condition_factor)
 
     p = Person(**data)
     #p.save()
