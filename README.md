@@ -1,17 +1,17 @@
-# Coronavirus Recovery Probability Calculator
+# Coronavirus Survival Probability Calculator
 
 *[COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/)*
 
-### This calculator is a web application that allows users who have coronavirus (COVID-19) to calculate the probability of their recovery. We devised a machine learning algorithm that can accurately predict this value, taking into account a wide variety of factors, including information such as pre-existing medical conditions and local population statistics.
+### This calculator is a web application that allows users who have coronavirus (COVID-19) to calculate the probability of their survival. We devised a machine learning algorithm that can accurately predict this value, taking into account a wide variety of factors, including information such as pre-existing medical conditions and local population statistics.
 
 ---
 
 ## Technologies used in this project
 
-<img src="assets/img/reactjs.png" alt="ReactJS" title="ReactJS" width="150px" height="150px"><img src="assets/img/django.png" alt="Django" title="Django" width="150px" height="150px"><img src="assets/img/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="150px" height="150px"><img src="assets/img/pandas.png" alt="Pandas" title="Pandas" width="150px" height="150px"><img src="assets/img/jinja.png" alt="Jinja" title="Jinja" width="150px" height="150px"><img src="assets/img/nokogiri.png" alt="Nokogiri" title="Nokogiri" width="150px" height="150px">
+<img src="assets/img/xgboost.png" alt="XGBoost" title="XGBoost" width="150px" height="150px"><img src="assets/img/django.png" alt="Django" title="Django" width="150px" height="150px"><img src="assets/img/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="150px" height="150px"><img src="assets/img/pandas.png" alt="Pandas" title="Pandas" width="150px" height="150px"><img src="assets/img/jinja.png" alt="Jinja" title="Jinja" width="150px" height="150px"><img src="assets/img/nokogiri.png" alt="Nokogiri" title="Nokogiri" width="150px" height="150px">
 
-* **ReactJS**
-  * Used ReactJS to develop the front-end website for user interaction
+* **XGBoost**
+  * Developed a gradient boosting machine learning algorithm to accurately predict coronavirus survival rate
 * **Django**
   * Created a custom REST API for the front-end to call for making predictions and storing user data
 * **PostgreSQL**
@@ -19,7 +19,7 @@
 * **Pandas**
   * Ran data analysis on many online datasets to accumulate appropriate training data for our machine learning model
 * **Jinja**
-  * Utilized templating engine to efficiently produce functional test models for the front-end
+  * Utilized templating engine to efficiently produce a functional front-end
 * **Nokogiri**
   * Web scraped COVID-19 status pages to download and form datasets
 
@@ -31,7 +31,7 @@
   * Project's main programming language
   * Created the machine learning algorithm and back-end API
 * **JavaScript**
-  * Used for developing the front-end website
+  * Used for developing the front-end website, along with Jinja and HTML/CSS
 * **Ruby**
   * Required for web scraping COVID-19 status pages for live data
 
