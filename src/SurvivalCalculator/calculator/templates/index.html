@@ -15,8 +15,9 @@
         border: 2px solid black;
         border-radius: 5px;
         width: 400px;
-        padding: 3px;
-        margin-top: 10px
+        padding: 7px 3px;
+        margin-top: 10px;
+        font-family: Ubuntu;
     }
 
     input[type=checkbox] {
@@ -24,27 +25,44 @@
     }
 
     select {
-        border: 2px solid #DDDDDD;
-        border-radius: 3px;
+        border: 2px solid black;
+        border-radius: 5px;
         width: 410px;
+        height: 37px;
         margin-top: 10px;
+        font-family: Ubuntu;
     }
 
-    select:hover {
-        border-color: black;
+    input[type=text]:focus, input[type=number]:focus, select:focus {
+        border-color: #0074d9;
     }
 
     fieldset {
         max-width: 400px;
         margin: auto;
-        margin-top: 100px;
+        border: 3px solid #ff4136;
+        border-radius: 10px;
+        background-color: white;
+        font-family: Ubuntu;
+    }
+
+    legend {
+        font-weight: bold;
+        color: #FFDC00;
+        text-align: center;
+    }
+
+    .title {
+        color: #ffdc00;
+        font-size: 30px;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     }
 {% endblock %}
 {% block content %}
+    <h1 class="title">COVID-19 Survival Probability Calculator</h1>
     <form action="/predict/" method="post">
         <fieldset>
-            <legend>Coronavirus Survival Probability Calculator</legend>
-            <input type="number" name="age" placeholder="Age" style="margin-top: 0;" required>
+            <input type="number" name="age" placeholder="Age" required>
             <select name="gender" required>
                 <option disabled selected hidden>Gender</option>
                 <option value="male">Male</option>
@@ -68,8 +86,8 @@
             <input type="checkbox" name="medical_conditions" value="cancer" id="cancer-checkbox">
             <label for="cancer-checkbox">Cancer</label><br>
             <input id="ip-input" type="hidden" name="ip" value="">
-            <input class="form-button" type="submit" value="Submit">
-            <input class="form-button" type="reset" value="Reset">
+            <input class="form-button" type="submit" value="Submit" style="background-color: #01ff70;">
+            <input class="form-button" type="reset" value="Reset" style="background-color: #ff4136;">
         </fieldset>
     </form>
     <script>

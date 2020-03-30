@@ -25,7 +25,7 @@ SECRET_KEY = '(8e2ln0k@njx5p3e&cja-!yr8em_afdf8p$%x*c(@=4bx65p+u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'covid19.serveo.net']
+ALLOWED_HOSTS = ['localhost']
 
 
 # Application definition
