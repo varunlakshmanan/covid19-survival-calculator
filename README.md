@@ -12,7 +12,7 @@
 
 * **XGBoost**
   * Developed a gradient boosting machine learning algorithm to accurately predict coronavirus survival rate (ensembled with a LightGB model for 95% AUC)
-* **LightGB**
+* **LightGBM**
   * Developed a gradient boosted model with optimized hyperparameters to predict coronavirus survival (ensembled with an XGBoost  model for 95% AUC)
 * **Django**
   * Created a custom REST API for the front-end to call for making predictions and storing user data
