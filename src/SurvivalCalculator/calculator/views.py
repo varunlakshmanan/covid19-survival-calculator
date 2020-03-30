@@ -62,8 +62,8 @@ def predict(request):
 
     medical_condition_factor = math.pow(medical_condition_factor, 2/3) if medical_condition_factor > 1 else 1.0
 
-    p = Person(**data)
-    p.save()
+    #p = Person(**data)
+    #p.save()
 
     prediction = model_ensemble.predict(df)[0] * 100 * medical_condition_factor
 
@@ -88,4 +88,4 @@ def update(request):
     dataset.download_country_mortality_rates_dataset()
     dataset.merge_mortality_rates_datasets()
     dataset.merge_into_original_dataset()
-    return HttpResponse('Success!')
+    return HttpResponse('Successfully updated datasets!')
