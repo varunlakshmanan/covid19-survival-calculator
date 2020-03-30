@@ -15,10 +15,10 @@ def create_light_gradient_boosting_model(test_data):
     x = data[features]
     y = data.death
 
-    # Split data into train and test sets
+    # Split data into train and test sets 
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.1, random_state=0)
 
-    # Train model 
+    # Train model with optimized hyperparameters
     train_dataset = lgb.Dataset(x_train, label=y_train)
     param = {'num_leaves': 64,
              'objective': 'binary',
@@ -31,7 +31,7 @@ def create_light_gradient_boosting_model(test_data):
              'verbose': -1}
     bst = lgb.train(param, train_dataset, 100, verbose_eval=False)
 
-    # Calculate AUC value 
+    # Find AUC (area under curve) value of model's ROC curve 
     # predictions = bst.predict(x_test, num_iteration=bst.best_iteration)
     # auc = roc_auc_score(y_test, predictions)
     # print(auc)
