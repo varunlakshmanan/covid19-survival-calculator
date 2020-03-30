@@ -5,12 +5,15 @@ from xgb_model import create_xgboost_model
 from lgbm_model import create_light_gradient_boosting_model
 
 def predict(test_data):
+    # Get probabilities from XGBoost and LGBM models
     xgb_prob = create_xgboost_model(test_data)
     lgbm_prob = create_light_gradient_boosting_model(test_data)
 
+    # Apply model weights 
     prob_avg = xgb_prob * 0.65 + lgbm_prob * 0.35
     return prob_avg
 
+    # OUTDATED: Calculate weight of each medical condition  
     '''
     condition_weights = {
         'cardiovascular disease': 0.015,
