@@ -43,6 +43,14 @@
 * [Worldometers.info US States Cases/Deaths](https://www.worldometers.info/coronavirus/country/us/)
 * [Worldbank.org Worldwide Population Density](https://data.worldbank.org/indicator/en.pop.dnst)
 
+## How it works
+
+When the user visits the website, the website provides the user with a form with several input fields that are needed for the prediction algorithm, including age, gender, days between symptom onset and hospitalization, travel to any high risk areas, and any pre-existing medical conditions. Once this form is submitted, the website collects this data, along with the user's public IP address, and sends the data to the back-end API's primary endpoint for prediction.
+
+## The machine learning algorithm
+
+Type here varun.
+
 ## Team
 
 * **Ashish D'Souza** - [computer-geek64](https://github.com/computer-geek64)
