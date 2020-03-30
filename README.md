@@ -45,7 +45,7 @@
 
 ## How it works
 
-When the user visits the website, the website provides the user with a form with several input fields that are needed for the prediction algorithm, including age, gender, days between symptom onset and hospitalization, travel to any high risk areas, and any pre-existing medical conditions. Once this form is submitted, the website collects this data, along with the user's public IP address, and sends the data to the back-end API's primary endpoint for prediction.
+When the user visits the website, the website provides the user with a form with several input fields that are needed for the prediction algorithm, including age, gender, days between symptom onset and hospitalization, travel to any high risk areas, and any pre-existing medical conditions. Once this form is submitted, the website collects this data, along with the user's public IP address, and sends the data to the back-end API's primary endpoint for prediction. The back-end then uses an external API to geolocate the user to a specific country and region. The user's country and region is then cross-referenced with the live mortality rate datasets and population density datasets. All of this data is finally inputted into the gradient boosting machine learning algorithm to formulate an accurate prediction of the probability of survival.
 
 ## The machine learning algorithm
 
