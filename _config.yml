@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: COVID-19 Survival Calculator
 description: A calculator that predicts the probability of survival for someone with the coronavirus (COVID-19).
 show_downloads: true
+author:
+  name: Ashish D'Souza
+  email: adsouza@gatech.edu
