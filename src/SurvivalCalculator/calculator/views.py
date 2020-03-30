@@ -20,7 +20,7 @@ def index(request):
 
 
 # Need a POST request for this API endpoint
-# Must be: /predict/IP_ADDRESS_HERE/
+# Must be: /predict/
 # Needs the following POST form data:
 #   ip: string representing user's public IP address
 #   age: integer representing user age
