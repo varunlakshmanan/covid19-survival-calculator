@@ -33,7 +33,7 @@ def predict(request):
     ip = request.POST.get('ip')
     response = requests.get('http://ip-api.com/json/' + ip)
     if not response.status_code == 200:
-        return HttpResponse('HTTP 500 Error')
+        return HttpResponse('HTTP 500 Error', status=500)
     ip_data = json.loads(response.text)
     region = ip_data['regionName'].lower()
     country = 'us' if ip_data['country'] == 'United States' else ip_data['country'].lower()
