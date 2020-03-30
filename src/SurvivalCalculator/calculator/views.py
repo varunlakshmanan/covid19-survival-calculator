@@ -62,8 +62,8 @@ def predict(request):
 
     medical_condition_factor = math.pow(medical_condition_factor, 2/3) if medical_condition_factor > 1 else 1.0
 
-    p = Person(**data)
-    p.save()
+    #p = Person(**data)
+    #p.save()
 
     prediction = model_ensemble.predict(df)[0] * 100 * medical_condition_factor
 
