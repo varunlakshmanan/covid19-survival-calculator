@@ -1,4 +1,4 @@
-# Coronavirus Survival Probability Calculator
+# COVID-19 Survival Calculator
 
 *[COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/)*
 
