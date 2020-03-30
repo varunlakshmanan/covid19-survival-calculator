@@ -8,7 +8,7 @@
 
 ## Technologies used in this project
 
-<img src="docs/img/xgboost.png" alt="XGBoost" title="XGBoost" width="150px" height="150px"><img src="docs/img/django.png" alt="Django" title="Django" width="150px" height="150px"><img src="docs/img/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="150px" height="150px"><img src="docs/img/pandas.png" alt="Pandas" title="Pandas" width="150px" height="150px"><img src="docs/img/jinja.png" alt="Jinja" title="Jinja" width="150px" height="150px"><img src="docs/img/nokogiri.png" alt="Nokogiri" title="Nokogiri" width="150px" height="150px">
+<img src="assets/img/xgboost.png" alt="XGBoost" title="XGBoost" width="150px" height="150px"><img src="assets/img/django.png" alt="Django" title="Django" width="150px" height="150px"><img src="assets/img/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="150px" height="150px"><img src="assets/img/pandas.png" alt="Pandas" title="Pandas" width="150px" height="150px"><img src="assets/img/jinja.png" alt="Jinja" title="Jinja" width="150px" height="150px"><img src="assets/img/nokogiri.png" alt="Nokogiri" title="Nokogiri" width="150px" height="150px">
 
 * **XGBoost**
   * Developed a gradient boosting machine learning algorithm to accurately predict coronavirus survival rate (ensembled with a LightGB model for 95% AUC)
@@ -27,7 +27,7 @@
 
 ## Programming languages
 
-<img src="docs/img/python.png" alt="Python" title="Python" width="150px" height="150px"><img src="docs/img/javascript.png" alt="JavaScript" title="JavaScript" width="150px" height="150px"><img src="docs/img/ruby.png" alt="Ruby" title="Ruby" width="150px" height="150px">
+<img src="assets/img/python.png" alt="Python" title="Python" width="150px" height="150px"><img src="assets/img/javascript.png" alt="JavaScript" title="JavaScript" width="150px" height="150px"><img src="assets/img/ruby.png" alt="Ruby" title="Ruby" width="150px" height="150px">
 
 * **Python** (3.7.7)
   * Project's main programming language
