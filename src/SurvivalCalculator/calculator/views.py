@@ -75,7 +75,11 @@ def predict(request):
     return render(request, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates', 'predict.html'), {'title': 'COVID-19 Survival Calculator', 'probability': probability})
 
 
-def update_databases(request):
+def privacy_policy(request):
+    return render(request, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates', 'privacy_policy.html'), {'title': 'Privacy Policy | COVID-19 Survival Calculator'})
+
+
+def update(request):
     dataset.download_us_states_mortality_rates_dataset()
     dataset.download_country_mortality_rates_dataset()
     dataset.merge_mortality_rates_datasets()
