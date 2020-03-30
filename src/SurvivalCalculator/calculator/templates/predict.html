@@ -1,7 +1,15 @@
 {% extends "layout.html" %}
 {% block style %}
     .heading {
-        text-align: center;
+        text-align: center;# Need a POST request for this API endpoint
+# Must be: /predict/
+# Needs the following POST form data:
+#   ip: string representing user's public IP address
+#   age: integer representing user age
+#   gender: string of either 'male' or 'female'
+#   symptom_onset_hospitalization: integer representing the number of days between symptom onset and hospitalization
+#   high_risk_travel: string of either 'yes' or 'no'
+#   medical_conditions: list of chosen medical conditions (see Google Doc for possible choices)
     }
 
     #prediction {
