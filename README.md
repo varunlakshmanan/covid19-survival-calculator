@@ -37,15 +37,6 @@
 * **Ruby**
   * Required for web scraping COVID-19 status pages for live data
 
-## How does it work?
-This calculator is meant for patients who have tested positive for coronavirus to calculate their chance of survival. It can also be used by doctors to determine which patients to treat first. 
-
-The user enters their age, gender, travel history, days between symptom onsent and hospitalization, and medical history on the website. The user's location is determined based on their IP address, and that location's population density and COVID-19 mortality rate are identified. 
-
-All of these factors are used to train two machine learning models: an XGBoost model and a LightGBM model. Both models employ algorithms that use gradient boosting to make predictions. XGBoost starts with one model, calculates the loss function of that model, creates a new model with parameters that minimize this loss function through gradient descent, and then adds that model to an ensemble. LightGBM is similar, but runs slightly faster with the risk of increased overfitting based on leaf-wise splitting of decision trees. 
-
-The results from both models are weighted according to their relative accuracy to produce a weighted average. Any medical condition the user selects is then accounted for by inputting this weighted average into a sigmoid function with different weights for different medical conditions. This adjusted average is then displayed to the user on the website. 
-
 ## Online datasets
 
 * [DataHub.io Worldwide Time Series](https://datahub.io/core/covid-19)
@@ -54,11 +45,15 @@ The results from both models are weighted according to their relative accuracy t
 
 ## How it works
 
+This calculator is meant for patients who have tested positive for coronavirus to calculate their chance of survival. It can also be used by doctors to determine which patients to treat first. 
+
 When the user visits the website, the website provides the user with a form with several input fields that are needed for the prediction algorithm, including age, gender, days between symptom onset and hospitalization, travel to any high risk areas, and any pre-existing medical conditions. Once this form is submitted, the website collects this data, along with the user's public IP address, and sends the data to the back-end API's primary endpoint for prediction. The back-end then uses an external API to geolocate the user to a specific country and region. The user's country and region is then cross-referenced with the live mortality rate datasets and population density datasets. All of this data is saved into the PostgreSQL database to be later converted into a new, merged dataset for retraining the model. Finally, the data is inputted into the gradient boosting machine learning algorithm to formulate an accurate prediction of the probability of survival.
 
-## The machine learning algorithm
+## Machine Learning Models Used
 
-Type here varun.
+All of these factors are used to train two machine learning models: an XGBoost model and a LightGBM model. Both models employ algorithms that use gradient boosting to make predictions. XGBoost starts with one model, calculates the loss function of that model, creates a new model with parameters that minimize this loss function through gradient descent, and then adds that model to an ensemble. LightGBM is similar, but runs slightly faster with the risk of increased overfitting based on leaf-wise splitting of decision trees. 
+
+The results from both models are weighted according to their relative accuracy to produce a weighted average. Any medical condition the user selects is then accounted for by inputting this weighted average into a sigmoid function with different weights for different medical conditions. This adjusted average is then displayed to the user on the website. 
 
 ## Team
 
