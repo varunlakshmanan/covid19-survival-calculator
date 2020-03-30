@@ -88,4 +88,4 @@ def update(request):
     dataset.download_country_mortality_rates_dataset()
     dataset.merge_mortality_rates_datasets()
     dataset.merge_into_original_dataset()
-    return HttpResponse('Success!')
+    return HttpResponse('Successfully updated datasets!')
