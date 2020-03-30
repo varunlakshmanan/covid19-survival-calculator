@@ -70,7 +70,7 @@ def predict(request):
     if prediction > 50:
         prediction = -2500 / prediction + 100
 
-    probability = float('.2f' % round(100 - min(prediction, 100), 2))
+    probability = float('%.1f' % round(100 - min(prediction, 100), 1))
 
     return render(request, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates', 'predict.html'), {'title': 'COVID-19 Survival Calculator', 'probability': probability})
 
