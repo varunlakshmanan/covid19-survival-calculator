@@ -60,21 +60,17 @@ def predict(request):
 
     medical_condition_factor = np.prod([medical_condition_death_rates[x] / medical_condition_death_rates['none'] for x in request.POST.getlist('medical_conditions')])
 
-    #medical_condition_factor = 200 / (1 + math.exp(-medical_condition_factor / 100)) - 100 if medical_condition_factor > 1 else 1.0  # Modified sigmoid function, goes from 0 to a cap of 100
     medical_condition_factor = math.pow(medical_condition_factor, 2/3) if medical_condition_factor > 1 else 1.0
 
     #p = Person(**data)
     #p.save()
 
-    prediction = model_ensemble.predict(df)[0] * 100
-    print(prediction)
+    prediction = model_ensemble.predict(df)[0] * 100 * medical_condition_factor
 
-    prediction *= medical_condition_factor
-    print(prediction)
     if prediction > 50:
         prediction = -2500 / prediction + 100
 
-    probability = 100 - round(min(prediction, 100), 2)
+    probability = float('.2f' % round(100 - min(prediction, 100), 2))
 
     return render(request, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates', 'predict.html'), {'title': 'COVID-19 Survival Calculator', 'probability': probability})
 
